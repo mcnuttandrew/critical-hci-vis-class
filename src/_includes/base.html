@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{{ title }}</title>
+    <link rel="stylesheet" href="/style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Playwrite+AT:ital,wght@0,100..400;1,100..400&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="flex">
+      <div id="critical-left">
+        {% assign x = "now" | date: "%N" | modulo: 10 %}
+        <!--  -->
+        {% assign criticalTerms =
+        "critical,비판,critique,kritische,kriitiline,critică,Kritická,批判,kritis,نقدية"
+        | split: "," %} {% for i in (0..20) %}
+        <!--  -->
+        {% assign dx = i | plus: x | modulo: 10 %}
+        <!--  -->
+        {% assign yx = i | plus: x | plus: 9 | modulo: 10 %}
+        <div class="item-{{yx}}">
+          <h1>{{criticalTerms[dx]}}</h1>
+        </div>
+        {% endfor %}
+      </div>
+      <div id="content-right">
+        <header>
+          <h1>CS6XXX: Critical VIS+HCI</h1>
+          <h2>Spring Semester 2025</h2>
+        </header>
+        <main>{{ content }}</main>
+      </div>
+    </div>
+  </body>
+</html>
