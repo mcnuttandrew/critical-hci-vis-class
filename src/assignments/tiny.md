@@ -3,4 +3,4 @@ title: Tiny
 weight: 0.25
 ---
 
-Respond to something we've read! This is something you should be doing for everything you read anyway, so you might as well get credit. No credit for obvious AI generated responses.
+**Respond to something we've read!** This is something you should be doing for everything you read anyway, so you might as well get credit. No credit for obvious AI generated responses. This is the only assignment with a deadline, it must be turned in before the class.
