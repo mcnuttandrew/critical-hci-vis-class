@@ -140,7 +140,7 @@ There are many different paths through this course. You might write responses fo
 
 ## Notes and clarifications
 
-It is possible that you could do nothing all semester and turn a whole bunch of work at once. This is allowed, but discouraged. Much in the same way that judges give harsher verdicts before lunch, requiring that the course staff grade a huge amount of submissions during finals week will likely lead to harsher grading. There is then, a game theory component to this system: when should you submit so that the grading system is currently least overwhelmed?
+It is possible that you could do nothing all semester and turn a whole bunch of work at once. This is allowed, but discouraged. Much in the same way that judges supposedly give harsher verdicts before lunch, requiring that the course staff grade a huge amount of submissions during finals week will likely lead to harsher grading. There is then, a game theory component to this system: when should you submit so that the grading system is currently least overwhelmed?
 
 Similarly, it is possible that you could not show all semester or engage with the class discussions, that is, generally not be a good citizen of the course. There will be a negative penalty for this: **up to -5 points (a quarter of the grade)**. We have no interest in taking attendance, but we will be keeping track of who is participating in class discussions.
 
