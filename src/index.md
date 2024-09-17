@@ -13,7 +13,7 @@ Learning objectives:
 - **Communication**: at the end of the course students will be able to communicate and synthesize their ideas in a variety of formats
 - **Theory**: at the end of the course students will be able describe the content of a variety of theoretical perspectives and apply them to data and data systems.
 
-Mechanically, the course can be thought of a choose your own adventure with a small handful of requirements (showing up to class / being a good citizen) wherein you strive to get a certain number of points by the end (20). There are a variety of different types of works that you can do to get points, such as an essay or a project. It is up to you how you decide to approach this course.
+Mechanically, the course can be thought of a choose your own adventure with a small handful of requirements (showing up to class / being a good citizen) wherein you strive to get a certain number of points by the end (20). There are a variety of different types of works that you can do to get points, such as an essay or a project. It is up to you how you decide to approach this course. Thus there is a more mechanical learning objective of pushing students to deal effectively with time management.
 
 <!-- # Table of contents
 
@@ -26,14 +26,16 @@ Mechanically, the course can be thought of a choose your own adventure with a sm
 **Instructor**: [Andrew McNutt](https://www.mcnutt.in/)  
 **Contact**: andrew.mcnutt@utah.edu  
 **Class**: 2:00PM-03:20PM (Tu/Th) at BU C 302  
-**Office Hours**: TBD
+**Office Hours**: TBD  
+**Course Forum**: TBD
 
 FAQ
 
 - How do I submit stuff? use THIS LINK
 - How do I hear about course updates? Check the course forum
-- How do I get in touch with the course staff? Post on the course forum, do not email
+- How do I get in touch with the course staff? Post on the course forum, _do not email_
 - How do I propose a work? Post on the course forum
+- How do I get grades? You'll be emailed once a week
 
 # Schedule:
 
@@ -100,6 +102,16 @@ Thursday (4/17): TBD
 **Week 16: ?**  
 Tuesday (4/22): TBD, All work due
 
+**Note** This schedule is still in progress. If you are shopping around, some representative things we likely read are:
+
+- [Data Feminism](https://data-feminism.mitpress.mit.edu/) by D'Ignazio and Klein
+- [Visualization and cognition: Thinking with eyes and hands](<https://hci.ucsd.edu/10/readings/Latour(1986).pdf>) by Latour
+- [Cyborg Manifesto](https://usa.anarchistlibraries.net/library/donna-haraway-a-cyborg-manifesto) by Haraway
+- [Critical InfoVis: exploring the politics of visualization](https://dl.acm.org/doi/abs/10.1145/2468356.2468739) by Dork et al.
+- [Towards a feminist HCI methodology: social science, feminism, and HCI](https://dl.acm.org/doi/abs/10.1145/1978942.1979041)
+- [Entanglements for Visualization: Changing Research Outcomes through Feminist Theory](https://files.osf.io/v1/resources/rw35g/providers/osfstorage/66a773d9d05d8844eac9a1cd?format=pdf&action=download&direct&version=1) by Akbaba et al.
+- [The fold: Rethinking interactivity in data visualization](https://markjanbludau.de/Brueggemann2020_Fold.pdf) by Brüggemann et al.
+
 # Mechanics
 
 This course is populated by a collection of optional assignments. Each assignment is worth some number of points. To get additional details about different activities you might do, see below. Note that this means there is not a notion of late work in this course. **All course work must be turn in by the last day of class before finals.**
@@ -116,7 +128,7 @@ Depending on how everyone does there may be a curve. The course staff will not k
 
 ## Possible works
 
-There are many different paths through this course. You might write responses for all of the readings, do a project, and write an essay. Or you might write 5 essays! There are many possible approaches. Other works are allowed, ask ahead (e.g., a video essay, a podcast, a poster). An appropriate way to ask would be to post on the course forum (so that others can see as well), you'll get a response. **Note, that merely submitting a work is not enough to get all of the point associated with that format, it will also be graded.**
+There are many different paths through this course. You might write responses for all of the readings, do a project, and write an essay. Or you might write 5 essays! There are many possible approaches. Other works are allowed, but you must ask ahead. Unusual approaches and welcomed and (for now) encourage. These might include a video essay, a podcast, a poster. An appropriate way to ask would be to post on the course forum (so that others can see as well), you'll get a response. **Note, that merely submitting a work is not enough to get all of the point associated with that format, it will also be graded.**
 
 {% for assignment in collections.assignments %}
 
@@ -150,6 +162,6 @@ It is our intent that students from all diverse backgrounds and perspectives be 
 
 We also expect students to treat everyone in the class (including the teaching staff) in a respectful manner.
 
-Student names & personal pronouns Class rosters are provided to the instructors with the student’s legal name as well as "Preferred first name" (if previously entered by you in the Student Profile section of your CIS account). Please advise the instructors of any name or pronoun changes (and update CIS) so we can help create a learning environment in which you feel respected. If you need assistance getting your preferred name on your UID card, please visit the LGBT Resource Center Room 409 in the Olpin Union Building, or email bpeacock@sa.utah.edu to schedule a time to drop by. The LGBT Resource Center hours are M-F 8am-5pm, and 8am-6pm on Tuesdays.
+Student names & personal pronouns Class rosters are provided to the staff with the student’s legal name as well as "Preferred first name" (if previously entered by you in the Student Profile section of your CIS account). Please advise the staff of any name or pronoun changes (and update CIS) so we can help create a learning environment in which you feel respected. If you need assistance getting your preferred name on your UID card, please visit the LGBT Resource Center Room 409 in the Olpin Union Building, or email bpeacock@sa.utah.edu to schedule a time to drop by. The LGBT Resource Center hours are M-F 8am-5pm, and 8am-6pm on Tuesdays.
 
-NOTE: This syllabus is meant to serve as an outline and guide for our course. Please note that the instructors may modify it with reasonable notice to you. The instructors may also modify the course schedule to accommodate the needs of our class. Any changes will be announced in class and posted on Canvas under Announcements.
+NOTE: This syllabus is meant to serve as an outline and guide for our course. Please note that the staff may modify it with reasonable notice to you. The staff may also modify the course schedule to accommodate the needs of our class. Any changes will be announced in class and posted on the course forum under Announcements.

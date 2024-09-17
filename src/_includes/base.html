@@ -15,15 +15,15 @@
   <body>
     <div class="flex">
       <div id="critical-left">
-        {% assign x = "now" | date: "%N" | modulo: 10 %}
+        {% assign x = "now" | date: "%N" | modulo: 12 %}
         <!--  -->
         {% assign criticalTerms =
-        "critical,비판,critique,kritische,kriitiline,critică,Kritická,批判,kritis,نقدية"
-        | split: "," %} {% for i in (0..20) %}
+        "critical,비판,critique,kritische,ביקורתית,kriitiline,critică,Kritická,批判,crítica,kritis,نقدية"
+        | split: "," %} {% for i in (0..22) %}
         <!--  -->
-        {% assign dx = i | plus: x | modulo: 10 %}
+        {% assign dx = i | plus: x | modulo: 12 %}
         <!--  -->
-        {% assign yx = i | plus: x | plus: 9 | modulo: 10 %}
+        {% assign yx = i | plus: x | plus: 11 | modulo: 12 %}
         <div class="item-{{yx}}">
           <h1>{{criticalTerms[dx]}}</h1>
         </div>
