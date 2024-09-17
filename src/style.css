@@ -92,3 +92,9 @@ h5 {
     font-size: 3em;
     text-transform: uppercase;
 }
+
+@media (max-width: 800px) {
+    #critical-left {
+        display: none;
+    }
+}

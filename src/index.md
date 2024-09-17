@@ -9,8 +9,9 @@ Relevant questions include: what is data? How do we evaluate the quality and rel
 
 Learning objectives:
 
-- Critical thinking: at the end of the course students should feel comfortable applying a variety of theoretical lenses to data and data systems.
-- Communication: students will be able to communicate their ideas in a variety of formats
+- **Critical thinking**: at the end of the course students should feel comfortable applying a variety of theoretical lenses to data and data systems.
+- **Communication**: at the end of the course students will be able to communicate and synthesize their ideas in a variety of formats
+- **Theory**: at the end of the course students will be able describe the content of a variety of theoretical perspectives and apply them to data and data systems.
 
 # Table of contents
 
@@ -24,11 +25,8 @@ Learning objectives:
 
 Instructor: [Andrew McNutt](https://www.mcnutt.in/)  
 Contact: andrew.mcnutt@utah.edu  
+Class: 2:00PM-03:20PM (Tu/Th) at BU C 302
 Office Hours: TBD
-
-## Times & Locations
-
-TBD
 
 # Schedule:
 
@@ -50,21 +48,19 @@ Roughly the breakdown of points is as follows
 
 Depending on how everyone does there may be a curve. The course staff will not know what the curve is until the end of the semester.
 
-**Possible works**:
+## Possible works
 
-(Note: these point values are works in progress)
+There are many different paths through this course. You might write responses for all of the readings, do a project, and write an essay. Or you might write 5 essays! There are many possible approaches. Other works are allowed, ask ahead (e.g., a video essay, a podcast, a poster). An appropriate way to ask would be to post on the course forum (so that others can see as well), you'll get a response.
 
 {% for assignment in collections.assignments %}
 
-- **{{assignment.data.title}} ({{assignment.data.weight}} point):**{{assignment.content}}
+### **{{assignment.data.title}}** ({{assignment.data.weight}} points)
+
+{{assignment.content}}
 
 {% endfor %}
 
-Other works are allowed, ask ahead (e.g., a video essay, a podcast, a poster). An appropriate way to ask would be to post on the course forum (so that others can see as well), you'll get a response.
-
-There are many different paths through this course. You might write responses for all of the readings (x points), do a project (y points), and write an essay. Or you might write 5 essays! There are many possible approaches.
-
-**Notes and clarifications**
+## Notes and clarifications
 
 It is possible that you could do nothing all semester and turn a whole bunch of work at once. This is allowed, but discouraged. Much in the same way that judges give harsher verdicts before lunch, requiring that the course staff grade a huge amount of submissions during finals week will likely lead to harsher grading. There is then, a game theory component to this system: when should you submit so that the grading system is currently least overwhelmed?
 
@@ -72,7 +68,7 @@ Similarly it is possible that you could not show all semester or engage with cla
 
 Resubmissions of previous works for new grades is allowed and encouraged. They will not increase your point total, but will allow you to increase the score on your original work.
 
-Given the variety of different types of works, there are a variety of different types of grading that are appropriate and necessary. Under cutting these are a general policy that you should not be disappointing. There are many ways to be disappointing. For instance, using an AI to generate an essay will be looked upon extremely negatively.
+Given the variety of different types of works, there are a variety of different types of grading that are appropriate and necessary. Under cutting these are a general policy that you should not be disappointing. There are many ways to be disappointing. For instance, using an AI to generate an essay will be looked upon extremely negatively. Depending on the specifics of the infringement this may lead into our academic honesty policy.
 
 Collaborations are allowed depending on the work. For instance, a group project is allowed and points not split, but submitting an interesting paper as a group is not. The course staff must be informed of the collaboration before the work is turned in. If the collaboration is not disclosed, the work will be considered a violation of the academic honesty policy.
 
