@@ -3,17 +3,17 @@ title: "Critical VIS+HCI"
 layout: "base.html"
 ---
 
-This course aims to equip students with skills for critically analyzing data and data related systems in the context of human-computer interaction (HCI) and visualization research, as well as in computer science more broadly. Via readings, projects, and discussions students will develop conceptual tools for evaluating, interpreting, and critiquing data, interfaces, and systems—critical thinking in data writ large.
+This course aims to equip students with skills for critically analyzing data and data-related systems in the context of human-computer interaction (HCI) and visualization research, as well as in computer science more broadly. Via readings, projects, and discussions students will develop conceptual tools for evaluating, interpreting, and critiquing data, interfaces, and systems—critical thinking in data writ large.
 
-Relevant questions include: what is data? How do we evaluate the quality and relevance of systems for interacting with data? What biases might be inherent in these designs? To serve this goal we will explore perspectives from critical theory, science and technology studies, and HCI/VIS research (such as Data Feminism). Students will gain experience in reading, understanding, and applying ideas from other fields to problems in familiar data domains.
+Relevant questions include: what is data? How do we evaluate the quality and relevance of systems for interacting with data? What biases might be inherent in these designs? To serve this goal we will explore perspectives from critical theory, science and technology studies, and HCI/VIS research (such as Data Feminism). Students will gain experience reading, understanding, and applying ideas from other fields to problems in familiar data domains.
 
 Learning objectives:
 
 - **Critical thinking**: at the end of the course students should feel comfortable applying a variety of theoretical lenses to data and data systems.
 - **Communication**: at the end of the course students will be able to communicate and synthesize their ideas in a variety of formats
-- **Theory**: at the end of the course students will be able describe the content of a variety of theoretical perspectives and apply them to data and data systems.
+- **Theory**: at the end of the course students will be able to describe the content of a variety of theoretical perspectives and apply them to data and data systems.
 
-Mechanically, the course can be thought of a choose your own adventure with a small handful of requirements (showing up to class / being a good citizen) wherein you strive to get a certain number of points by the end (20). There are a variety of different types of works that you can do to get points, such as an essay or a project. It is up to you how you decide to approach this course. Thus there is a more mechanical learning objective of pushing students to deal effectively with time management.
+Mechanically, the course is essentially a [choose-your-own-adventure](https://en.wikipedia.org/wiki/Choose_Your_Own_Adventure) with a small handful of requirements (showing up to class / being a good citizen/some other minor stuff) wherein you strive to get a certain number of points by the end (20). There are a variety of different types of works that you can do to get points, such as an essay or a project. It is up to you how you decide to approach this course. Thus there is a more mechanical learning objective of pushing students to deal effectively with time management.
 
 <!-- # Table of contents
 
@@ -25,7 +25,7 @@ Mechanically, the course can be thought of a choose your own adventure with a sm
 
 **Instructor**: [Andrew McNutt](https://www.mcnutt.in/)  
 **Contact**: andrew.mcnutt@utah.edu  
-**Class**: 2:00PM-03:20PM (Tu/Th) at BU C 302  
+**Class**: 2:00 PM - 3:20 PM (Tu/Th) at BU C 302  
 **Office Hours**: TBD  
 **Course Forum**: TBD
 
@@ -39,7 +39,7 @@ FAQ
 
 # Schedule:
 
-For each class there will be some assigned reading that you should do before class. Classes will involve discussions of the readings, so it is important that you do the readings.
+For each class, there will be some assigned reading that you should do before class. Classes will involve discussions of the readings, so it is important that you do the readings.
 
 **Week 1: Introduction**  
 Tuesday (1/7): TBD  
@@ -114,9 +114,9 @@ Tuesday (4/22): TBD, All work due
 
 # Mechanics
 
-This course is populated by a collection of optional assignments. Each assignment is worth some number of points. To get additional details about different activities you might do, see below. Note that this means there is not a notion of late work in this course. **All course work must be turn in by the last day of class before finals.**
+This course is populated by a collection of optional assignments. Each assignment is worth some number of points. To get additional details about different activities you might do, see below. Note that this means there is not a notion of late work in this course. **All coursework must be turned in by the last day of class before finals.**
 
-Roughly the breakdown of points is as follows
+Roughly the breakdown of points is as follows:
 
 - A: 18-20 points
 - B: 15-17 points
@@ -128,7 +128,7 @@ Depending on how everyone does there may be a curve. The course staff will not k
 
 ## Possible works
 
-There are many different paths through this course. You might write responses for all of the readings, do a project, and write an essay. Or you might write 5 essays! There are many possible approaches. Other works are allowed, but you must ask ahead. Unusual approaches and welcomed and (for now) encourage. These might include a video essay, a podcast, a poster. An appropriate way to ask would be to post on the course forum (so that others can see as well), you'll get a response. **Note, that merely submitting a work is not enough to get all of the point associated with that format, it will also be graded.**
+There are many different paths through this course. You might write responses for all of the readings, do a project, and write an essay. Or you might write 5 essays! There are many possible approaches. Other works are allowed, but you must ask ahead. Unusual approaches and welcomed and (for now) encouraged. These might include a video essay, a podcast, a poster, or something else! An appropriate way to ask would be to post on the course forum (so that others can see as well), you'll get a response. **Note, that merely submitting a work is not enough to get all of the points associated with that format, it will also be graded.**
 
 {% for assignment in collections.assignments %}
 
@@ -142,17 +142,17 @@ There are many different paths through this course. You might write responses fo
 
 It is possible that you could do nothing all semester and turn a whole bunch of work at once. This is allowed, but discouraged. Much in the same way that judges give harsher verdicts before lunch, requiring that the course staff grade a huge amount of submissions during finals week will likely lead to harsher grading. There is then, a game theory component to this system: when should you submit so that the grading system is currently least overwhelmed?
 
-Similarly it is possible that you could not show all semester or engage with class discussion, that is, generally not be a good citizen of the course. There will be a negative penalty for this: **-5 points (a quarter of the grade)**. We have no interest in taking attendance, but we will be keeping track of who is participating in class discussions.
+Similarly, it is possible that you could not show all semester or engage with the class discussions, that is, generally not be a good citizen of the course. There will be a negative penalty for this: **up to -5 points (a quarter of the grade)**. We have no interest in taking attendance, but we will be keeping track of who is participating in class discussions.
 
 Resubmissions of previous works for new grades is allowed and encouraged. They will not increase your point total, but will allow you to increase the score on your original work.
 
-Given the variety of different types of works, there are a variety of different types of grading that are appropriate and necessary. Under cutting these are a general policy that you should not be disappointing. There are many ways to be disappointing. For instance, using an AI to generate an essay will be looked upon extremely negatively. Depending on the specifics of the infringement this may lead into our academic honesty policy.
+Given the variety of different types of works, there are a variety of different types of grading that are appropriate and necessary. Undercutting these are a general policy that you should not be disappointing. There are many ways to be disappointing. For instance, using an AI to generate an essay will be looked upon extremely negatively. Depending on the specifics of the infringement this may lead into our academic honesty policy.
 
-Collaborations are allowed depending on the work. For instance, a group project is allowed and points not split, but submitting an interesting paper as a group is not. The course staff must be informed of the collaboration before the work is turned in. If the collaboration is not disclosed, the work will be considered a violation of the academic honesty policy.
+Collaborations are allowed depending on the work. For instance, a group project is allowed and points are not split, but submitting an interesting paper as a group is not. The course staff must be informed of the collaboration before the work is turned in. If the collaboration is not disclosed, the work will be considered a violation of the academic honesty policy.
 
 # Policies
 
-Behavior during class activities All students are expected to maintain professional behavior, according to [the University of Utah Student Code](www.regulations.utah.edu/academics/guides/students/studentRights.html). Students should read the Code carefully and know that they are responsible for the content. According to Faculty Rules and Regulations, it is the faculty responsibility to enforce responsible classroom behaviors, beginning with verbal warnings and progressing to dismissal from class and a failing grade. Students have the right to appeal such action to the Student Behavior Committee.
+Behavior during class activities All students are expected to maintain professional behavior, according to [the University of Utah Student Code](www.regulations.utah.edu/academics/guides/students/studentRights.html). Students should read the Code carefully and know that they are responsible for the content. According to Faculty Rules and Regulations, it is the faculty's responsibility to enforce responsible classroom behaviors, beginning with verbal warnings and progressing to dismissal from class and a failing grade. Students have the right to appeal such action to the Student Behavior Committee.
 
 Cheating is taken very seriously and students must be careful not to collaborate on assignments unless otherwise noted. Submissions are routinely checked by the course staff for signs of unauthorized collaboration. Any student found cheating will fail the entire course. We will adhere by the School of Computing policy on academic misconduct.
 
