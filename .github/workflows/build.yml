@@ -11,8 +11,7 @@ jobs:
         run: |
           npm install
           npm run build
-          mv dist/index.html index.html
-          mv dist/assets/* assets/
+          mv dist/* ./
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@4.0.0
