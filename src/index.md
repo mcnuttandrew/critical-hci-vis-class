@@ -13,7 +13,7 @@ Learning objectives:
 - **Communication**: at the end of the course students will be able to communicate and synthesize their ideas in a variety of formats
 - **Theory**: at the end of the course students will be able to describe the content of a variety of theoretical perspectives and apply them to data and data systems.
 
-Mechanically, the course is essentially a [choose-your-own-adventure](https://en.wikipedia.org/wiki/Choose_Your_Own_Adventure) with a small handful of requirements (showing up to class / being a good citizen/some other minor stuff) wherein you strive to get a certain number of points by the end (20). There are a variety of different types of works that you can do to get points, such as an essay or a project. It is up to you how you decide to approach this course. Thus there is a more mechanical learning objective of pushing students to deal effectively with time management.
+Mechanically, the course is essentially a [choose-your-own-adventure](https://en.wikipedia.org/wiki/Choose_Your_Own_Adventure) with a small handful of requirements (showing up to class / being a good citizen/some other minor stuff) wherein you strive to get a certain number of points by the end (25). There are a variety of different types of works that you can do to get points, such as an essay or a project. It is up to you how you decide to approach this course. Thus there is a more mechanical learning objective of pushing students to deal effectively with time management.
 
 <!-- # Table of contents
 
@@ -42,18 +42,18 @@ FAQ
 For each class, there will be some assigned reading that you should do before class. Classes will involve discussions of the readings, so it is important that you do the readings.
 
 **Week 1: Introduction**  
-Tuesday (1/7): TBD  
-Thursday (1/9): TBD
+Tuesday (1/7): Syllabus day, introductory discussions and stakes setting  
+Thursday (1/9): Data is Never Raw Introduction, ...
 
-**Week 2: ?**  
-Tuesday (1/14): TBD  
+**Week 2: Data/HCI Feminism**  
+Tuesday (1/14): Data Feminism Power Chapter  
 Thursday (1/16): TBD
 
-**Week 3: ?**  
+**Week 3: Data/HCI Feminism**  
 Tuesday (1/21): TBD  
 Thursday (1/23): TBD
 
-**Week 4: ?**  
+**Week 4: What is theory in HCI/VIS?**  
 Tuesday (1/28): TBD  
 Thursday (1/30): TBD
 
@@ -116,14 +116,6 @@ Tuesday (4/22): TBD, All work due
 
 This course is populated by a collection of optional assignments. Each assignment is worth some number of points. To get additional details about different activities you might do, see below. Note that this means there is not a notion of late work in this course. **All coursework must be turned in by the last day of class before finals.**
 
-Roughly the breakdown of points is as follows:
-
-- A: 18-20 points
-- B: 15-17 points
-- C: 12-14 points
-- D: 9-11 points
-- F: 0-8 points
-
 Depending on how everyone does there may be a curve. The course staff will not know what the curve is until the end of the semester.
 
 ## Possible works
@@ -142,13 +134,15 @@ There are many different paths through this course. You might write responses fo
 
 It is possible that you could do nothing all semester and turn a whole bunch of work at once. This is allowed, but discouraged. Much in the same way that judges supposedly give harsher verdicts before lunch, requiring that the course staff grade a huge amount of submissions during finals week will likely lead to harsher grading. There is then, a game theory component to this system: when should you submit so that the grading system is currently least overwhelmed?
 
-Similarly, it is possible that you could not show all semester or engage with the class discussions, that is, generally not be a good citizen of the course. There will be a negative penalty for this: **up to -5 points (a quarter of the grade)**. We have no interest in taking attendance, but we will be keeping track of who is participating in class discussions.
+Similarly, it is possible that you could not show all semester or engage with the class discussions, that is, generally not be a good citizen of the course. There will be a negative penalty for this: **up to -12 points**. We have no interest in taking attendance, but we will be keeping track of who is participating in class discussions.
 
 Resubmissions of previous works for new grades is allowed and encouraged. They will not increase your point total, but will allow you to increase the score on your original work.
 
 Given the variety of different types of works, there are a variety of different types of grading that are appropriate and necessary. Undercutting these are a general policy that you should not be disappointing. There are many ways to be disappointing. For instance, using an AI to generate an essay will be looked upon extremely negatively. Depending on the specifics of the infringement this may lead into our academic honesty policy.
 
 Collaborations are allowed depending on the work. For instance, a group project is allowed and points are not split, but submitting an interesting paper as a group is not. The course staff must be informed of the collaboration before the work is turned in. If the collaboration is not disclosed, the work will be considered a violation of the academic honesty policy.
+
+Note that because this course structure is experimental, components of it liable to change as the utility/non-utility of them becomes more apparent. For instance, depending on student engagement reading requirements may shift from a point value into a credit gate---such that credit for any assignment is unavailable without having done all the readings.
 
 # Policies
 
