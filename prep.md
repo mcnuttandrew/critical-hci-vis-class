@@ -4,38 +4,17 @@
 
 [Cyborg Manifesto](https://usa.anarchistlibraries.net/library/donna-haraway-a-cyborg-manifesto) by Haraway
 
-[Situated Knowledges: The Science Question in Feminism and the Privilege of Partial
-Perspective](https://philpapers.org/archive/HARSKT.p) Haraway
-
-# Politics
-
-[Of Course it's Political! A Critical Inquiry into Underemphasized Dimensions in Civic Text Visualization](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14518) Baumer et al.
-
-[Human-computer insurrection: Notes on an anarchist HCI](https://dl.acm.org/doi/abs/10.1145/3290605.3300569) Keyes et al,
-
 # PL + HCI Theory
 
 [Cognitive Dimensions of Notation](https://www.cl.cam.ac.uk/~afb21/CognitiveDimensions/papers/Green1989.pdf)
 
 [Technical Dimensions of Programming Systems](https://arxiv.org/abs/2302.10003)
 
-[A Case for Feminism in Programming Language Design](https://dl.acm.org/doi/abs/10.1145/3689492.3689809) Hermans, Schlesinger
-
 [Myths and Mythconceptions What does it mean to be a programming language, anyhow?](https://dl.acm.org/doi/pdf/10.1145/3480947) Shaw
 
 # Critical VIS
 
-[Iceberg Sensemaking: A Process Model for Critical Data Analysis and Visualization](https://ieeexplore.ieee.org/abstract/document/10741969)
-
-[Ethical dimensions of visualization research](https://dl.acm.org/doi/abs/10.1145/3290605.3300418) Correll
-
-[Critical InfoVis: exploring the politics of visualization](https://dl.acm.org/doi/abs/10.1145/2468356.2468739) by Dork et al.
-
-[The work that visualisation conventions do](https://www.tandfonline.com/doi/abs/10.1080/1369118X.2016.1153126) Kennedy et al.
-
 [Seeing what is not shown: Combining visualization critique and design to surface the limitations in data](https://www.jbe-platform.com/content/journals/10.1075/idj.22006.hen)
-
-[Complexity as Design Material](https://arxiv.org/abs/2409.07465) Windhager et. al
 
 # Theories from around
 
@@ -47,6 +26,12 @@ Perspective](https://philpapers.org/archive/HARSKT.p) Haraway
 
 [Critical Race Theory for HCI](https://dl.acm.org/doi/abs/10.1145/3313831.3376392)
 
+[Data refusal from below: A framework for understanding, evaluating, and envisioning refusal as design](https://dl.acm.org/doi/full/10.1145/3630107) Zong & Matias
+
+[Communicative visualizations as a learning problem](https://ieeexplore.ieee.org/abstract/document/9222102/)
+
+[Disclosure as a critical-feminist design practice for Web-based data stories](https://firstmonday.org/ojs/index.php/fm/article/view/12712)
+
 # Humanized
 
 [Polite computing](https://www.tandfonline.com/doi/full/10.1080/01449290512331333700) Whiteworth
@@ -54,16 +39,6 @@ Perspective](https://philpapers.org/archive/HARSKT.p) Haraway
 [Polite web-based intelligent tutors: Can they improve learning in classrooms?](https://www.sciencedirect.com/science/article/pii/S0360131510002824) McLaren
 
 [Yes: Affirmative consent as a theoretical framework for understanding and imagining social platforms](https://dl.acm.org/doi/abs/10.1145/3411764.3445778)
-
-# Bullshit
-
-[On Bullshit](https://www.degruyter.com/document/doi/10.1515/9781400826537/html) Frankfurt
-
-[Towards a theory of bullshit visualization](https://arxiv.org/abs/2109.12975)
-
-# Learning Objectives
-
-[Communicative visualizations as a learning problem](https://ieeexplore.ieee.org/abstract/document/9222102/)
 
 # Unsorted
 
@@ -83,8 +58,6 @@ Seams, seamlessness papers
 
 [Towards critical data studies: Charting and unpacking data assemblages and their work](https://papers.ssrn.com/sol3/papers.cfm?Abstract_id=2474112) Kitchin, Lauriault
 
-Some chunks of structure of scientific revolutions, chapter 5 paradigms, chapter 7 theories
-
 [Topography of violence: Considerations for ethical and collaborative visualization design](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14285)
 
 [Tied in knots: A case study on anthropographic data visualization about sexual harassment in the academy](https://ieeexplore.ieee.org/abstract/document/9307965)
@@ -96,8 +69,6 @@ Some chunks of structure of scientific revolutions, chapter 5 paradigms, chapter
 [Visualizing Junk: Big Data Visualizations and the Need for Feminist Data Studies](https://journals.sagepub.com/doi/pdf/10.1177/0196859916666041) Hill et al.
 
 [Data by Design](https://dataxdesign.io/), Intro, every data point a person
-
-[Data refusal from below: A framework for understanding, evaluating, and envisioning refusal as design](https://dl.acm.org/doi/full/10.1145/3630107) Zong & Matias
 
 Reflective practitioner
 
@@ -122,3 +93,5 @@ Viral Visualizations: How Coronavirus Skeptics Use Orthodox Data Practices to Pr
 Visualization Rhetoric: Framing Effects in Narrative Visualization
 
 Gaps made visible — narrative patterns of emotional resonance in data representations of Rio de Janeiro's communities
+
+[Complexity as Design Material](https://arxiv.org/abs/2409.07465) Windhager et. al

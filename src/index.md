@@ -13,7 +13,7 @@ Learning objectives:
 - **Communication**: at the end of the course students will be able to communicate and synthesize their ideas in a variety of formats
 - **Theory**: at the end of the course students will be able to describe the content of a variety of theoretical perspectives and apply them to data and data systems.
 
-Mechanically, the course is essentially a [choose-your-own-adventure](https://en.wikipedia.org/wiki/Choose_Your_Own_Adventure) with a small handful of requirements (showing up to class / being a good citizen/some other minor stuff) wherein you strive to get a certain number of points by the end (25). There are a variety of different types of works that you can do to get points, such as an essay or a project. It is up to you how you decide to approach this course. Thus there is a more mechanical learning objective of pushing students to deal effectively with time management.
+Mechanically, the course is essentially a [choose-your-own-adventure](https://en.wikipedia.org/wiki/Choose_Your_Own_Adventure) with a small handful of requirements (showing up to class / being a good citizen/some other minor stuff) wherein you strive to get a certain number of points by the end (25). There are a variety of different types of works that you can do to get points, such as an essay or a project. It is up to you how you decide to approach this course. (Except for the required activities, that constitutes 5 points and is not available any other way) Thus there is a more mechanical learning objective of pushing students to deal effectively with time management.
 
 # Logistics
 
@@ -45,7 +45,7 @@ Thursday (1/9): [Raw Data is an Oxymoron](https://raley.english.ucsb.edu/wp-cont
 
 **Week 2: Data/HCI Feminism amuse**
 
-Tuesday (1/14): [Data Feminism](https://data-feminism.mitpress.mit.edu/), Introduction and Power Chapter
+Tuesday (1/14): [Data Feminism](https://data-feminism.mitpress.mit.edu/), Introduction and Power Chapter, [Feminist Data Visualization](https://kanarinka.com/wp-content/uploads/2015/07/IEEE_Feminist_Data_Visualization.pdf)
 
 Thursday (1/16): [Towards a feminist HCI methodology: social science, feminism, and HCI](https://dl.acm.org/doi/abs/10.1145/1978942.1979041) Bardzell + Bardzell,
 
@@ -63,7 +63,7 @@ Thursday (1/30): [The nature of theory in information systems](https://www.jstor
 
 **Week 5: Meta theory in HCI/VIS?**
 
-Tuesday (2/4): Structure of scientific revolutions (available at the library), chapter 5 paradigms, chapter 7 theories
+Tuesday (2/4): Structure of scientific revolutions (available at the library), chapter 5 paradigms, chapter 7 theories, [Fourth Paradigm](https://www.microsoft.com/en-us/research/wp-content/uploads/2009/10/Fourth_Paradigm.pdf) intro / chapter 1
 
 Thursday (2/6): [Criteria for Rigor in Visualization Design Study](https://ieeexplore.ieee.org/abstract/document/8809711) Meyer, Dykes
 
@@ -146,17 +146,19 @@ There are many different paths through this course. You might write responses fo
 
 **Make a zine!** Like the essay option, this should cover a topic or topics relevant to the course, but be presented in a zine-style format. The length, content, and complexity should be appropriate to being a medium work.
 
-### **Small** (1 points)
+### **Small** (0-1 points)
 
 **Draw a postcard!** Make a visual representation of a paper we've read. This can be a short lightweight visual abstract or some more in-depth. Use both sides. It should be enlightening to read.
 
-### **Tiny** (0-0.5 points)
-
-**Respond to something we've read!** This is something you should be doing for everything you read anyway, so you might as well get credit. No credit for obvious AI generated responses. This is the only assignment with a deadline, it must be turned in before the class.
-
-**Make a plan!** This course has a very loose structure that can make it easy to get lost. Write down a plan in a markdown file of what assignments you plan to do and when. This isn't binding, but it's a good idea to have a plan. **This is a required assignment**
-
 **Help the course!** Suggest a reading not currently covered by the syllabus. If it is sufficiently interesting, we'll bring it into the course. Credit will only given for readings that are used in the course.
+
+## Required Activities (5 points)
+
+**Respond to the reading** This is something you should be doing for everything you read anyway, so you might as well get credit. No credit for obvious AI generated responses. This is the only assignment with a deadline, it must be turned in physically in class.
+
+**Show up to class**
+
+**Make a plan!** This course has a very loose structure that can make it easy to get lost. Write down a plan in a markdown file of what assignments you plan to do and when. This isn't binding, but it's a good idea to have a plan.
 
 ## Notes and clarifications
 
