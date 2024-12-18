@@ -44,7 +44,7 @@
 
 some of the critical data book
 
-[Fourth Paradigm](https://www.microsoft.com/en-us/research/wp-content/uploads/2009/10/Fourth_Paradigm.pdf) intro / chapter 1
+New theoretical approaches for HCI
 
 [All data are local](https://direct.mit.edu/books/book-pdf/2257207/book_9780262352215.pdf) intro / chapter 1 local origins / chapter 6 models of local practice
 
@@ -72,6 +72,8 @@ Seams, seamlessness papers
 
 Reflective practitioner
 
+Tech-Art-Theory: Improvisational Methods for HCI Learning and Teaching
+
 [Critical reflections on visualization authoring systems](https://ieeexplore.ieee.org/abstract/document/8807226/)
 
 # On the bench
@@ -95,3 +97,21 @@ Visualization Rhetoric: Framing Effects in Narrative Visualization
 Gaps made visible — narrative patterns of emotional resonance in data representations of Rio de Janeiro's communities
 
 [Complexity as Design Material](https://arxiv.org/abs/2409.07465) Windhager et. al
+
+Making epistemological trouble: Third-paradigm HCI as successor science by Harrison et al.
+
+Entanglement HCI the next wave? By Frauenberger
+
+Writing the Implosion: Teaching the World One Thing at a Time by Dumit
+
+From derya:
+
+Troubling Data. Could go nice with Michael and Laura’s recent paper about bodies
+What is Data? - Exploring the Meaning of Data in Data Physicalisation Teaching by van Koningsbruggen et al.
+On the Making of Alternative Data Encounters: The Odd Interpreters by Desjardins et al.
+
+Crip Theory More fringe perhaps, but crip and queer theories are often very strong theoretically
+Critiquing Menstrual Pain Technologies through the Lens of Feminist Disability Studies by Park et al.
+
+More than Human, I don’t actually know that much about MTHD but it is in line with Haraway’s feminist theories
+A Plurality of More-than-Humanness: Feminist Speculations for Designing with the Vaginal Microbiome by Campo Woytuk et al.

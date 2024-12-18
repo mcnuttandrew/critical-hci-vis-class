@@ -41,7 +41,7 @@ Note this schedule is still in progress and likely to change.
 
 Tuesday (1/7): Syllabus day, introductory discussions and stakes setting
 
-Thursday (1/9): [Raw Data is an Oxymoron](https://raley.english.ucsb.edu/wp-content/Engl800/RawData-excerpts.pdf), Gitelman: Introduction.
+Thursday (1/9): [Raw Data is an Oxymoron](https://raley.english.ucsb.edu/wp-content/Engl800/RawData-excerpts.pdf), Gitelman: Introduction. [Data Humanism Manifesto](http://giorgialupi.com/data-humanism-my-manifesto-for-a-new-data-wold), Lupi
 
 **Week 2: Data/HCI Feminism amuse**
 
@@ -76,7 +76,7 @@ Thursday (2/13): [Data Feminism for AI](https://dl.acm.org/doi/abs/10.1145/36301
 
 **Week 7: Feminism continued/Critical Vis**
 
-Tuesday (2/18): [A Case for Feminism in Programming Language Design](https://dl.acm.org/doi/abs/10.1145/3689492.3689809) Hermans, Schlesinger
+Tuesday (2/18): [A Case for Feminism in Programming Language Design](https://dl.acm.org/doi/abs/10.1145/3689492.3689809) Hermans, Schlesinger, Bonus: [Pronoun Logic](https://arxiv.org/abs/2409.18978) by Bohrer and Neth
 
 Thursday (2/20): [Critical InfoVis: exploring the politics of visualization](https://dl.acm.org/doi/abs/10.1145/2468356.2468739) by Dork et al. [The work that visualisation conventions do](https://www.tandfonline.com/doi/abs/10.1080/1369118X.2016.1153126) Kennedy et al.
 
@@ -146,6 +146,9 @@ There are many different paths through this course. You might write responses fo
 
 **Make a zine!** Like the essay option, this should cover a topic or topics relevant to the course, but be presented in a zine-style format. The length, content, and complexity should be appropriate to being a medium work.
 
+**Write Reflectively!** Across the semester keep a reflective journal. This is an opportunity to think critically about what we've been working on in class, as well as your work more generally. "Keeping and Using Reflective Journals in the Qualitative Research Process" includes an introduction to it.
+Here is a potential [starting prompt](https://www.gla.ac.uk/0t4/crcees/files/summerschool/readings/summerschool09/SumSchool09_Reflexive_Study_Journal.pdf) and [tutorial video](https://www.youtube.com/watch?v=SntBj0FIApw). If you wish to pursue this activity, you should start at the beginning of the semester and continue through to the end; its not worth much if you do it for a week.
+
 ### **Small** (0-1 points)
 
 **Draw a postcard!** Make a visual representation of a paper we've read. This can be a short lightweight visual abstract or some more in-depth. Use both sides. It should be enlightening to read.
@@ -164,7 +167,7 @@ There are many different paths through this course. You might write responses fo
 
 It is possible that you could do nothing all semester and turn a whole bunch of work at once. This is allowed, but discouraged. Much in the same way that judges supposedly give harsher verdicts before lunch, requiring that the course staff grade a huge amount of submissions during finals week will likely lead to harsher grading. There is then, a game theory component to this system: when should you submit so that the grading system is currently least overwhelmed?
 
-Similarly, it is possible that you could not show all semester or engage with the class discussions, that is, generally not be a good citizen of the course. There will be a negative penalty for this: **up to -12 points**. We have no interest in taking attendance, but we will be keeping track of who is participating in class discussions.
+Similarly, it is possible that you could not show all semester or engage with the class discussions, that is, generally not be a good citizen of the course. There will be a negative penalty for this: **up to -12 points**.
 
 Resubmissions of previous works for new grades is allowed and encouraged. They will not increase your point total, but will allow you to increase the score on your original work.
 
@@ -193,3 +196,8 @@ We also expect students to treat everyone in the class (including the teaching s
 Student names & personal pronouns Class rosters are provided to the staff with the student's legal name as well as "Preferred first name" (if previously entered by you in the Student Profile section of your CIS account). Please advise the staff of any name or pronoun changes (and update CIS) so we can help create a learning environment in which you feel respected. If you need assistance getting your preferred name on your UID card, please visit the LGBT Resource Center Room 409 in the Olpin Union Building, or email bpeacock@sa.utah.edu to schedule a time to drop by. The LGBT Resource Center hours are M-F 8am-5pm, and 8am-6pm on Tuesdays.
 
 NOTE: This syllabus is meant to serve as an outline and guide for our course. Please note that the staff may modify it with reasonable notice to you. The staff may also modify the course schedule to accommodate the needs of our class. Any changes will be announced in class and posted on the course forum under Announcements.
+
+# Credits
+
+This course is indebted to wide variety of people for this work, their teaching, and their thoughtful commentary. [Miriah Meyer's course](https://miriah.github.io/teaching/cs7960-paradigms/) on a related topic of HCI paradigms was a large inspiration. [derya akababa](https://gotdairyya.github.io/) provided some very commentary.
+The course structure draws on a course I heard about taught at Reed College by Troy Cross, but it is not impossible in the intervening years the details have telephoned there way into be something different.
