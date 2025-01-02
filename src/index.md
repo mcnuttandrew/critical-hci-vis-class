@@ -21,11 +21,11 @@ Mechanically, the course is essentially a [choose-your-own-adventure](https://en
 **Contact**: andrew.mcnutt@utah.edu  
 **Class**: 2:00 PM - 3:20 PM (Tu/Th) at BU C 302  
 **Office Hours**: TBD  
-**Course Forum**: TBD
+**Course Forum**: [link](https://edstem.org/us/courses/70841/discussion)
 
 FAQ
 
-- How do I submit stuff? use THIS LINK
+- How do I submit stuff? use [THIS LINK](https://forms.gle/GcLgZVjn1G2GqWBSA)
 - How do I hear about course updates? Check the course forum
 - How do I get in touch with the course staff? Post on the course forum, _do not email_
 - How do I propose a work? Post on the course forum
@@ -63,14 +63,13 @@ Thursday (1/30): [The nature of theory in information systems](https://www.jstor
 
 **Week 5: Meta theory in HCI/VIS?**
 
-Tuesday (2/4): Structure of scientific revolutions (available at the library), chapter 5 paradigms, chapter 7 theories, [Fourth Paradigm](https://www.microsoft.com/en-us/research/wp-content/uploads/2009/10/Fourth_Paradigm.pdf) intro / chapter 1
+Tuesday (2/4): Structure of scientific revolutions (available at the library), chapter 5 paradigms, chapter 7 theories, [Fourth Paradigm](https://www.microsoft.com/en-us/research/wp-content/uploads/2009/10/Fourth_Paradigm.pdf) intro / chapter 1, [The Three Paradigms of HCI](https://people.cs.vt.edu/srh/Downloads/TheThreeParadigmsofHCI.pdf), Harrison
 
 Thursday (2/6): [Criteria for Rigor in Visualization Design Study](https://ieeexplore.ieee.org/abstract/document/8809711) Meyer, Dykes
 
 **Week 6: Feminism continued**
 
-Tuesday (2/11): [Situated Knowledges: The Science Question in Feminism and the Privilege of Partial
-Perspective](https://philpapers.org/archive/HARSKT.p) Haraway
+Tuesday (2/11): [Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective](https://philpapers.org/archive/HARSKT.p) Haraway
 
 Thursday (2/13): [Data Feminism for AI](https://dl.acm.org/doi/abs/10.1145/3630106.3658543)
 
@@ -136,7 +135,7 @@ There are many different paths through this course. You might write responses fo
 
 **Make a project!** This is the most traditional form of work in this course. Here you will propose a project (at least a month in advance of your submission of that project) for which you will receive feedback and approval. The project should be a substantial piece of work that is related to the course topic.
 
-**Take a test!** If you have found yourself in dire need of points a final can be arranged in order to fill up the gap. This will be an in-class exam (held during finals week) that will cover material from the course, including free response and multiple choice.
+**Take a test!** If you have found yourself in dire need of points a final can be arranged in order to fill up the gap. This will be a timed exam held towards the end of the course that will cover material from the course, including free response and multiple choice.
 
 ### **Medium** (4-6 points)
 
@@ -167,9 +166,9 @@ Here is a potential [starting prompt](https://www.gla.ac.uk/0t4/crcees/files/sum
 
 It is possible that you could do nothing all semester and turn a whole bunch of work at once. This is allowed, but discouraged. Much in the same way that judges supposedly give harsher verdicts before lunch, requiring that the course staff grade a huge amount of submissions during finals week will likely lead to harsher grading. There is then, a game theory component to this system: when should you submit so that the grading system is currently least overwhelmed?
 
-Similarly, it is possible that you could not show all semester or engage with the class discussions, that is, generally not be a good citizen of the course. There will be a negative penalty for this: **up to -12 points**.
+Similarly, it is possible that you could not show up all semester or engage with the class discussions, that is, generally not be a good citizen of the course. There will be a negative penalty for this: **up to -12 points**.
 
-Resubmissions of previous works for new grades is allowed and encouraged. They will not increase your point total, but will allow you to increase the score on your original work.
+Resubmissions of previous works for new grades is allowed and encouraged. They will not increase your point total, but will allow you to increase the score on your original work. Note: all course work is graded at discretion---submitting something numerous times does not mean it will be graded numerous times.
 
 Given the variety of different types of works, there are a variety of different types of grading that are appropriate and necessary. Undercutting these are a general policy that you should not be disappointing. There are many ways to be disappointing. For instance, using an AI to generate an essay will be looked upon extremely negatively. Depending on the specifics of the infringement this may lead into our academic honesty policy.
 
@@ -200,4 +199,4 @@ NOTE: This syllabus is meant to serve as an outline and guide for our course. Pl
 # Credits
 
 This course is indebted to wide variety of people for this work, their teaching, and their thoughtful commentary. [Miriah Meyer's course](https://miriah.github.io/teaching/cs7960-paradigms/) on a related topic of HCI paradigms was a large inspiration. [derya akababa](https://gotdairyya.github.io/) provided some very useful and inspiring commentary.
-The course structure draws on a course I heard about taught at Reed College by Troy Cross, but it is not impossible in the intervening years the details have telephoned there way into be something different.
+The course structure draws on a course I heard about taught at Reed College by Troy Cross, but it is not impossible in the intervening years the details have telephoned their way into being something different.
