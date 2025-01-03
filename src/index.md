@@ -21,7 +21,8 @@ Mechanically, the course is essentially a [choose-your-own-adventure](https://en
 **Contact**: andrew.mcnutt@utah.edu  
 **Class**: 2:00 PM - 3:20 PM (Tu/Th) at BU C 302  
 **Office Hours**: TBD  
-**Course Forum**: [link](https://edstem.org/us/courses/70841/discussion)
+**Course Forum**: [link](https://edstem.org/us/courses/70841/discussion)  
+**Github link**: [github.com/mcnuttandrew/critical-hci-vis-class](https://github.com/mcnuttandrew/critical-hci-vis-class)
 
 FAQ
 
@@ -65,7 +66,7 @@ Thursday (1/30): [The nature of theory in information systems](https://www.jstor
 
 Tuesday (2/4): Structure of scientific revolutions (available at the library), chapter 5 paradigms, chapter 7 theories, [Fourth Paradigm](https://www.microsoft.com/en-us/research/wp-content/uploads/2009/10/Fourth_Paradigm.pdf) intro / chapter 1, [The Three Paradigms of HCI](https://people.cs.vt.edu/srh/Downloads/TheThreeParadigmsofHCI.pdf), Harrison
 
-Thursday (2/6): [Criteria for Rigor in Visualization Design Study](https://ieeexplore.ieee.org/abstract/document/8809711) Meyer, Dykes
+Thursday (2/6): [Traditional and Critical Theory](https://blogs.law.columbia.edu/critique1313/files/2019/09/Horkheimer-Traditional-and-Critical-Theory-2.pdf) Horkheimer, [Criteria for Rigor in Visualization Design Study](https://ieeexplore.ieee.org/abstract/document/8809711) Meyer, Dykes
 
 **Week 6: Feminism continued**
 
@@ -166,7 +167,7 @@ Here is a potential [starting prompt](https://www.gla.ac.uk/0t4/crcees/files/sum
 
 It is possible that you could do nothing all semester and turn a whole bunch of work at once. This is allowed, but discouraged. Much in the same way that judges supposedly give harsher verdicts before lunch, requiring that the course staff grade a huge amount of submissions during finals week will likely lead to harsher grading. There is then, a game theory component to this system: when should you submit so that the grading system is currently least overwhelmed?
 
-Similarly, it is possible that you could not show up all semester or engage with the class discussions, that is, generally not be a good citizen of the course. There will be a negative penalty for this: **up to -12 points**.
+Similarly, it is possible that you could not show up all semester or engage with the class discussions, that is, generally not be a good citizen of the course. There will be a negative penalty for this or similar actions: **up to -12 points**.
 
 Resubmissions of previous works for new grades is allowed and encouraged. They will not increase your point total, but will allow you to increase the score on your original work. Note: all course work is graded at discretion---submitting something numerous times does not mean it will be graded numerous times.
 
@@ -184,7 +185,7 @@ Cheating is taken very seriously and students must be careful not to collaborate
 
 Note: self-plagiarism is plagiarism, turning in work completed in other courses is viewed as plagiarism. Similarly, using AI tooling for text generation is considered plagiarism.
 
-In cases where projects involve human subjects, mistreatment of those subjects (such as by not following the tenets of the [Belmont Report]) will be viewed as academic misconduct.
+In cases where projects involve human subjects, mistreatment of those subjects (such as by not following the tenets of the [Belmont Report](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html)) will be viewed as academic misconduct.
 
 College of Engineering guidelines For information on withdrawing from courses, appealing grades, and more, see the [College of Engineering guidelines](https://www.coe.utah.edu/students/academic-affairs/academics/semester-guidelines/).
 
