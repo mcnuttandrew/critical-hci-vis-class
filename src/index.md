@@ -42,7 +42,8 @@ Note this schedule is still in progress and likely to change.
 
 Tuesday (1/7): Syllabus day, introductory discussions and stakes setting
 
-Thursday (1/9): [Raw Data is an Oxymoron](https://raley.english.ucsb.edu/wp-content/Engl800/RawData-excerpts.pdf), Gitelman: Introduction. [Data Humanism Manifesto](http://giorgialupi.com/data-humanism-my-manifesto-for-a-new-data-wold), Lupi
+Thursday (1/9): [Raw Data is an Oxymoron](https://raley.english.ucsb.edu/wp-content/Engl800/RawData-excerpts.pdf), Gitelman: Introduction. [Data Humanism Manifesto](http://giorgialupi.com/data-humanism-my-manifesto-for-a-new-data-wold), Lupi, When the Body Became Data:
+Historical Data Cultures and Anatomical Illustration, Correll and Garrison
 
 **Week 2: Data/HCI Feminism amuse**
 
