@@ -29,7 +29,7 @@ FAQ
 - How do I submit stuff? use [THIS LINK](https://forms.gle/GcLgZVjn1G2GqWBSA)
 - How do I hear about course updates? Check the course forum
 - How do I get in touch with the course staff? Post on the course forum, _do not email_
-- How do I propose a work? Post on the course forum
+- How do I propose a work? Post on the course forum (or use the github for talks/help the course)
 - How do I get grades? You'll be emailed once a week
 
 # Schedule:
@@ -142,7 +142,7 @@ There are many different paths through this course. You might write responses fo
 
 **Write an essay!** Write an essay about something related to the course. Relevant topics might include a reflection on a topic relevant to your domain knowledge or research, a synthesis related to course readings (although you should anticipate bringing in outside sources as well), a critique of a system or interface using one of our tools, or another appropriate topic (feel free to ask). This should be an academic essay and so refs should be used as appropriate. Think, 2-3 pages in IEEE VIS format (like a poster abstract length).
 
-**Do a talk!** Here you'll do a presentation about something related to the course during class time. You must give at least a 1 week advance notice. Some possible presentations include: a discussion of a paper we did not read during class, an analysis of a system, an argument synthesizing multiple different perspectives we've considered. As part of your request for doing a talk, please file a pull request against this page.
+**Do a talk!** Here you'll do a presentation about something related to the course during class time. You must give at least a 1 week advance notice. Some possible presentations include: a discussion of a paper we did not read during class, an analysis of a system, an argument synthesizing multiple different perspectives we've considered. As part of your request for doing a talk, please file a pull request against this page using the github.
 
 **Make a zine!** Like the essay option, this should cover a topic or topics relevant to the course, but be presented in a zine-style format. The length, content, and complexity should be appropriate to being a medium work.
 
@@ -153,7 +153,7 @@ Here is a potential [starting prompt](https://www.gla.ac.uk/0t4/crcees/files/sum
 
 **Draw a postcard!** Make a visual representation of a paper we've read. This can be a short lightweight visual abstract or some more in-depth. Use both sides. It should be enlightening to read.
 
-**Help the course!** Suggest a reading not currently covered by the syllabus. If it is sufficiently interesting, we'll bring it into the course. Credit will only given for readings that are used in the course.
+**Help the course!** Suggest a reading not currently covered by the syllabus. If it is sufficiently interesting, we'll bring it into the course. Credit will only given for readings that are used in the course. To help the course file an issue on the github, if you get credit I'll enter it into your submissions.
 
 ## Required Activities (5 points)
 

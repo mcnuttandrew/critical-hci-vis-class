@@ -106,7 +106,6 @@ Writing the Implosion: Teaching the World One Thing at a Time by Dumit
 
 From derya:
 
-Troubling Data. Could go nice with Michael and Laura’s recent paper about bodies
 What is Data? - Exploring the Meaning of Data in Data Physicalisation Teaching by van Koningsbruggen et al.
 On the Making of Alternative Data Encounters: The Odd Interpreters by Desjardins et al.
 
