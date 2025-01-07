@@ -76,6 +76,8 @@ Tech-Art-Theory: Improvisational Methods for HCI Learning and Teaching
 
 [Critical reflections on visualization authoring systems](https://ieeexplore.ieee.org/abstract/document/8807226/)
 
+Gender mag
+
 # On the bench
 
 Villainy

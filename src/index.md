@@ -36,11 +36,11 @@ FAQ
 
 For each class, there will be some assigned reading that you should do before class. Classes will involve discussions of the readings, so it is important that you do the readings.
 
-Note this schedule is still in progress and likely to change.
+Note: this schedule is subject to change (although whatever the next reading is will always be right).
 
 **Week 1: Introduction**
 
-Tuesday (1/7): Syllabus day, introductory discussions and stakes setting
+Tuesday (1/7): Syllabus day, introductory discussions and stakes setting. [Slide](https://drive.google.com/file/d/1kKGhFe_6t8ZwVm4JAavm-N3MYHgKRk18/view?usp=sharing)
 
 Thursday (1/9): [Raw Data is an Oxymoron](https://raley.english.ucsb.edu/wp-content/Engl800/RawData-excerpts.pdf), Gitelman: Introduction. [Data Humanism Manifesto](http://giorgialupi.com/data-humanism-my-manifesto-for-a-new-data-wold), Lupi, When the Body Became Data:
 Historical Data Cultures and Anatomical Illustration, Correll and Garrison
