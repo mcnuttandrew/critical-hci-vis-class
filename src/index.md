@@ -20,7 +20,7 @@ Mechanically, the course is essentially a [choose-your-own-adventure](https://en
 **Instructor**: [Andrew McNutt](https://www.mcnutt.in/)  
 **Contact**: andrew.mcnutt@utah.edu  
 **Class**: 2:00 PM - 3:20 PM (Tu/Th) at BU C 302  
-**Office Hours**: TBD  
+**Office Hours**: On demand 
 **Course Forum**: [link](https://edstem.org/us/courses/70841/discussion)  
 **Github link**: [github.com/mcnuttandrew/critical-hci-vis-class](https://github.com/mcnuttandrew/critical-hci-vis-class)
 
