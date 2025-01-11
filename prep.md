@@ -66,8 +66,6 @@ Seams, seamlessness papers
 
 [Who Do We Mean When We Talk About Visualization Novices?](https://dl.acm.org/doi/abs/10.1145/3544548.3581524) burns et al
 
-[Visualizing Junk: Big Data Visualizations and the Need for Feminist Data Studies](https://journals.sagepub.com/doi/pdf/10.1177/0196859916666041) Hill et al.
-
 [Data by Design](https://dataxdesign.io/), Intro, every data point a person
 
 Reflective practitioner
@@ -79,6 +77,10 @@ Tech-Art-Theory: Improvisational Methods for HCI Learning and Teaching
 Gender mag
 
 Building Theories in Software Engineering - Dag I. K. Sjøberg, Tore Dybå, Bente C. D. Anda, Jo E. Hannay
+
+What is “Critical” about Critical Design?
+
+Feminist HCI: Taking Stock and Outlining an Agenda for Design
 
 # On the bench
 

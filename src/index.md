@@ -20,7 +20,7 @@ Mechanically, the course is essentially a [choose-your-own-adventure](https://en
 **Instructor**: [Andrew McNutt](https://www.mcnutt.in/)  
 **Contact**: andrew.mcnutt@utah.edu  
 **Class**: 2:00 PM - 3:20 PM (Tu/Th) at BU C 302  
-**Office Hours**: On demand 
+**Office Hours**: On demand
 **Course Forum**: [link](https://edstem.org/us/courses/70841/discussion)  
 **Github link**: [github.com/mcnuttandrew/critical-hci-vis-class](https://github.com/mcnuttandrew/critical-hci-vis-class)
 
@@ -49,7 +49,7 @@ Historical Data Cultures and Anatomical Illustration, Correll and Garrison
 
 Tuesday (1/14): [Data Feminism](https://data-feminism.mitpress.mit.edu/), Introduction and Power Chapter, [Feminist Data Visualization](https://kanarinka.com/wp-content/uploads/2015/07/IEEE_Feminist_Data_Visualization.pdf)
 
-Thursday (1/16): [Towards a feminist HCI methodology: social science, feminism, and HCI](https://dl.acm.org/doi/abs/10.1145/1978942.1979041) Bardzell + Bardzell,
+Thursday (1/16): [Towards a feminist HCI methodology: social science, feminism, and HCI](https://dl.acm.org/doi/abs/10.1145/1978942.1979041) Bardzell + Bardzell, [Visualizing Junk: Big Data Visualizations and the Need for Feminist Data Studies](https://journals.sagepub.com/doi/pdf/10.1177/0196859916666041)
 
 **Week 3: Epistemologies**
 
@@ -65,7 +65,7 @@ Thursday (1/30): [The nature of theory in information systems](https://www.jstor
 
 **Week 5: Meta theory in HCI/VIS?**
 
-Tuesday (2/4): Structure of scientific revolutions (available at the library), chapter 5 paradigms, chapter 7 theories, [Fourth Paradigm](https://www.microsoft.com/en-us/research/wp-content/uploads/2009/10/Fourth_Paradigm.pdf) intro / chapter 1, [The Three Paradigms of HCI](https://people.cs.vt.edu/srh/Downloads/TheThreeParadigmsofHCI.pdf), Harrison
+Tuesday (2/4): Structure of scientific revolutions (available at the library), chapter 5 paradigms, chapter 7 theories, [Fourth Paradigm](https://www.microsoft.com/en-us/research/wp-content/uploads/2009/10/Fourth_Paradigm.pdf) chapter 1, [The Three Paradigms of HCI](https://people.cs.vt.edu/srh/Downloads/TheThreeParadigmsofHCI.pdf), Harrison
 
 Thursday (2/6): [Traditional and Critical Theory](https://blogs.law.columbia.edu/critique1313/files/2019/09/Horkheimer-Traditional-and-Critical-Theory-2.pdf) Horkheimer, [Criteria for Rigor in Visualization Design Study](https://ieeexplore.ieee.org/abstract/document/8809711) Meyer, Dykes
 
