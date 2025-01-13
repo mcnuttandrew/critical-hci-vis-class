@@ -13,7 +13,7 @@ Learning objectives:
 - **Communication**: at the end of the course students will be able to communicate and synthesize their ideas in a variety of formats
 - **Theory**: at the end of the course students will be able to describe the content of a variety of theoretical perspectives and apply them to data and data systems.
 
-Mechanically, the course is essentially a [choose-your-own-adventure](https://en.wikipedia.org/wiki/Choose_Your_Own_Adventure) with a small handful of requirements (showing up to class / being a good citizen/some other minor stuff) wherein you strive to get a certain number of points by the end (25). There are a variety of different types of works that you can do to get points, such as an essay or a project. It is up to you how you decide to approach this course. (Except for the required activities, that constitutes 5 points and is not available any other way) Thus there is a more mechanical learning objective of pushing students to deal effectively with time management.
+Mechanically, the course is essentially a scavenger hunt with a small handful of requirements (showing up to class / being a good citizen/some other minor stuff) wherein you strive to get a certain number of points by the end (25). There are a variety of different types of works that you can do to get points, such as an essay or a project. It is up to you how you decide to approach this course. (Except for the required activities, that constitutes 5 points and is not available any other way) Thus there is a more mechanical learning objective of pushing students to deal effectively with time management.
 
 # Logistics
 
