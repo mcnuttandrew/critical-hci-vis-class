@@ -32,6 +32,8 @@
 
 [Disclosure as a critical-feminist design practice for Web-based data stories](https://firstmonday.org/ojs/index.php/fm/article/view/12712)
 
+An Introduction to Critical Cartography - Jeremy W. Crampton, John Krygier
+
 # Humanized
 
 [Polite computing](https://www.tandfonline.com/doi/full/10.1080/01449290512331333700) Whiteworth
@@ -120,3 +122,5 @@ Critiquing Menstrual Pain Technologies through the Lens of Feminist Disability S
 
 More than Human, I don’t actually know that much about MTHD but it is in line with Haraway’s feminist theories
 A Plurality of More-than-Humanness: Feminist Speculations for Designing with the Vaginal Microbiome by Campo Woytuk et al.
+
+[Cripping Data Visualizations: Crip Technoscience as a Critical Lens for Designing Digital Access](https://dl.acm.org/doi/pdf/10.1145/3597638.3608427)

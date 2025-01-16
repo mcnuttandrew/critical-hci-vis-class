@@ -53,7 +53,9 @@ Thursday (1/16): [Towards a feminist HCI methodology: social science, feminism, 
 
 **Week 3: Epistemologies**
 
-Tuesday (1/21): [Entanglements for Visualization: Changing Research Outcomes through Feminist Theory](https://files.osf.io/v1/resources/rw35g/providers/osfstorage/66a773d9d05d8844eac9a1cd?format=pdf&action=download&direct&version=1) by Akbaba et al. Watch talks for [Data Hunches](https://www.youtube.com/watch?v=IqLqajd3mY0) and [Framework for externalizing implicit error](https://vimeo.com/300462407)
+Tuesday (1/21): Read [Entanglements for Visualization: Changing Research Outcomes through Feminist Theory](https://files.osf.io/v1/resources/rw35g/providers/osfstorage/66a773d9d05d8844eac9a1cd?format=pdf&action=download&direct&version=1) by Akbaba et al.
+Read [Framework for externalizing implicit error](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8449328) by McCurdy et al.
+Watch talk for [Data Hunches](https://www.youtube.com/watch?v=IqLqajd3mY0)
 
 Thursday (1/23): [On Bullshit](https://www.degruyter.com/document/doi/10.1515/9781400826537/html) Frankfurt, [Towards a theory of bullshit visualization](https://arxiv.org/abs/2109.12975) Correll
 
