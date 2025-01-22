@@ -57,7 +57,7 @@ Tuesday (1/21): Read [Entanglements for Visualization: Changing Research Outcome
 Read [Framework for externalizing implicit error](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8449328) by McCurdy et al.
 Watch talk for [Data Hunches](https://www.youtube.com/watch?v=IqLqajd3mY0)
 
-Thursday (1/23): [On Bullshit](https://www.degruyter.com/document/doi/10.1515/9781400826537/html) Frankfurt, [Towards a theory of bullshit visualization](https://arxiv.org/abs/2109.12975) Correll
+Thursday (1/23): [On Bullshit](https://uca.edu/honors/files/2018/10/frankfurt_on-bullshit.pdf) Frankfurt, [Towards a theory of bullshit visualization](https://arxiv.org/abs/2109.12975) Correll
 
 **Week 4: Meta theory in HCI/VIS?**
 

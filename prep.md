@@ -112,15 +112,15 @@ Entanglement HCI the next wave? By Frauenberger
 
 Writing the Implosion: Teaching the World One Thing at a Time by Dumit
 
-From derya:
-
 What is Data? - Exploring the Meaning of Data in Data Physicalisation Teaching by van Koningsbruggen et al.
 On the Making of Alternative Data Encounters: The Odd Interpreters by Desjardins et al.
 
-Crip Theory More fringe perhaps, but crip and queer theories are often very strong theoretically
 Critiquing Menstrual Pain Technologies through the Lens of Feminist Disability Studies by Park et al.
 
-More than Human, I don’t actually know that much about MTHD but it is in line with Haraway’s feminist theories
 A Plurality of More-than-Humanness: Feminist Speculations for Designing with the Vaginal Microbiome by Campo Woytuk et al.
 
 [Cripping Data Visualizations: Crip Technoscience as a Critical Lens for Designing Digital Access](https://dl.acm.org/doi/pdf/10.1145/3597638.3608427)
+
+[Chatbot apologies: Beyond bullshit](https://arxiv.org/pdf/2501.09910)
+
+"Invisible Women: Data Bias in a World Designed for Men" Chapter 1
