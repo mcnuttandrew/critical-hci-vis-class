@@ -1,7 +1,5 @@
 # STS
 
-[Visualization and cognition: Thinking with eyes and hands](<https://hci.ucsd.edu/10/readings/Latour(1986).pdf>) by Latour
-
 [Cyborg Manifesto](https://usa.anarchistlibraries.net/library/donna-haraway-a-cyborg-manifesto) by Haraway
 
 # PL + HCI Theory
@@ -10,15 +8,11 @@
 
 [Technical Dimensions of Programming Systems](https://arxiv.org/abs/2302.10003)
 
-[Myths and Mythconceptions What does it mean to be a programming language, anyhow?](https://dl.acm.org/doi/pdf/10.1145/3480947) Shaw
-
 # Critical VIS
 
 [Seeing what is not shown: Combining visualization critique and design to surface the limitations in data](https://www.jbe-platform.com/content/journals/10.1075/idj.22006.hen)
 
 # Theories from around
-
-[On Use of Theory in Computing Education Research](https://dl.acm.org/doi/abs/10.1145/3230977.3230992) Nelson, Ko
 
 [The fold: Rethinking interactivity in data visualization](https://markjanbludau.de/Brueggemann2020_Fold.pdf) by Brüggemann et al.
 
@@ -36,15 +30,9 @@ An Introduction to Critical Cartography - Jeremy W. Crampton, John Krygier
 
 # Humanized
 
-[Polite computing](https://www.tandfonline.com/doi/full/10.1080/01449290512331333700) Whiteworth
-
 [Polite web-based intelligent tutors: Can they improve learning in classrooms?](https://www.sciencedirect.com/science/article/pii/S0360131510002824) McLaren
 
-[Yes: Affirmative consent as a theoretical framework for understanding and imagining social platforms](https://dl.acm.org/doi/abs/10.1145/3411764.3445778)
-
 # Unsorted
-
-some of the critical data book
 
 New theoretical approaches for HCI
 
@@ -78,17 +66,11 @@ Tech-Art-Theory: Improvisational Methods for HCI Learning and Teaching
 
 Gender mag
 
-Building Theories in Software Engineering - Dag I. K. Sjøberg, Tore Dybå, Bente C. D. Anda, Jo E. Hannay
-
 What is “Critical” about Critical Design?
-
-Feminist HCI: Taking Stock and Outlining an Agenda for Design
 
 # On the bench
 
 Villainy
-
-Pb Util paper
 
 Troubling Collaboration: Matters of Care for Visualization Design Study
 
@@ -110,9 +92,8 @@ Making epistemological trouble: Third-paradigm HCI as successor science by Harri
 
 Entanglement HCI the next wave? By Frauenberger
 
-Writing the Implosion: Teaching the World One Thing at a Time by Dumit
-
 What is Data? - Exploring the Meaning of Data in Data Physicalisation Teaching by van Koningsbruggen et al.
+
 On the Making of Alternative Data Encounters: The Odd Interpreters by Desjardins et al.
 
 Critiquing Menstrual Pain Technologies through the Lens of Feminist Disability Studies by Park et al.
@@ -124,3 +105,12 @@ A Plurality of More-than-Humanness: Feminist Speculations for Designing with the
 [Chatbot apologies: Beyond bullshit](https://arxiv.org/pdf/2501.09910)
 
 "Invisible Women: Data Bias in a World Designed for Men" Chapter 1
+
+Design Patterns for the Common Good: Building Better Technologies Using the
+Wisdom of Virtue Ethics https://arxiv.org/pdf/2501.10288v1
+
+[Criteria for Rigor in Visualization Design Study](https://ieeexplore.ieee.org/abstract/document/8809711) Meyer, Dykes
+
+[a thousand plateaus, introduction/rhizome](https://files.libcom.org/files/A%20Thousand%20Plateaus.pdf)
+
+[Development of the Critical Reflection and Agency in Computing Index](https://arxiv.org/abs/2501.13060) - Padiyath

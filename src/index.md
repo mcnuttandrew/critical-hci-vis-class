@@ -69,43 +69,46 @@ Thursday (1/30): [The nature of theory in information systems](https://www.jstor
 
 Tuesday (2/4): Structure of scientific revolutions (available at the library), chapter 5 paradigms, chapter 7 theories, [Fourth Paradigm](https://www.microsoft.com/en-us/research/wp-content/uploads/2009/10/Fourth_Paradigm.pdf) chapter 1, [The Three Paradigms of HCI](https://people.cs.vt.edu/srh/Downloads/TheThreeParadigmsofHCI.pdf), Harrison
 
-Thursday (2/6): [Traditional and Critical Theory](https://blogs.law.columbia.edu/critique1313/files/2019/09/Horkheimer-Traditional-and-Critical-Theory-2.pdf) Horkheimer, [Criteria for Rigor in Visualization Design Study](https://ieeexplore.ieee.org/abstract/document/8809711) Meyer, Dykes
+Thursday (2/6): [Traditional and Critical Theory](https://blogs.law.columbia.edu/critique1313/files/2019/09/Horkheimer-Traditional-and-Critical-Theory-2.pdf) Horkheimer
 
 **Week 6: Feminism continued**
 
-Tuesday (2/11): [Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective](https://philpapers.org/archive/HARSKT.p) Haraway
+Tuesday (2/11): [Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective](https://philpapers.org/archive/HARSKT.p) Haraway, [Writing the Implosion: Teaching the World One Thing at a Time](https://journal.culanth.org/index.php/ca/article/view/ca29.2.09) by Dumit
 
 Thursday (2/13): [Data Feminism for AI](https://dl.acm.org/doi/abs/10.1145/3630106.3658543)
 
 **Week 7: Feminism continued/Critical Vis**
 
-Tuesday (2/18): [A Case for Feminism in Programming Language Design](https://dl.acm.org/doi/abs/10.1145/3689492.3689809) Hermans, Schlesinger, Bonus: [Pronoun Logic](https://arxiv.org/abs/2409.18978) by Bohrer and Neth
+Tuesday (2/18): [A Case for Feminism in Programming Language Design](https://dl.acm.org/doi/abs/10.1145/3689492.3689809) Hermans, Schlesinger,
+(Ideally a a pre-print of a relevant alt.chi paper),
+Bonus: [Pronoun Logic](https://arxiv.org/abs/2409.18978) by Bohrer and Neth
 
 Thursday (2/20): [Critical InfoVis: exploring the politics of visualization](https://dl.acm.org/doi/abs/10.1145/2468356.2468739) by Dork et al. [The work that visualisation conventions do](https://www.tandfonline.com/doi/abs/10.1080/1369118X.2016.1153126) Kennedy et al.
 
-**Week 8: Critical Vis**
+**Week 8: Critical Vis/Political Considerations**
 
-Tuesday (2/25): [Ethical dimensions of visualization research](https://dl.acm.org/doi/abs/10.1145/3290605.3300418) Correll
+Tuesday (2/25): [Ethical dimensions of visualization research](https://dl.acm.org/doi/abs/10.1145/3290605.3300418) Correll [Iceberg Sensemaking: A Process Model for Critical Data Analysis and Visualization](https://ieeexplore.ieee.org/abstract/document/10741969)
 
-Thursday (2/27): [Iceberg Sensemaking: A Process Model for Critical Data Analysis and Visualization](https://ieeexplore.ieee.org/abstract/document/10741969)
+Thursday (2/27): [Of Course it's Political! A Critical Inquiry into Underemphasized Dimensions in Civic Text Visualization](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14518) Baumer et al.
 
 **Week 9: Political Considerations**
 
-Tuesday (3/4): [Of Course it's Political! A Critical Inquiry into Underemphasized Dimensions in Civic Text Visualization](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14518) Baumer et al.
+Tuesday (3/4): [Human-computer insurrection: Notes on an anarchist HCI](https://dl.acm.org/doi/abs/10.1145/3290605.3300569) Keyes et al, [A Mulching Proposal: Analysing and Improving an Algorithmic System for Turning the Elderly into High-Nutrient Slurry](https://dl.acm.org/doi/abs/10.1145/3290607.3310433)
 
-Thursday (3/6): [Human-computer insurrection: Notes on an anarchist HCI](https://dl.acm.org/doi/abs/10.1145/3290605.3300569) Keyes et al, [A Mulching Proposal: Analysing and Improving an Algorithmic System for Turning the Elderly into High-Nutrient Slurry](https://dl.acm.org/doi/abs/10.1145/3290607.3310433)
+Thursday (3/6): [Yes: Affirmative consent as a theoretical framework for understanding and imagining social platforms](https://dl.acm.org/doi/abs/10.1145/3411764.3445778) [Polite computing](https://www.tandfonline.com/doi/full/10.1080/01449290512331333700) Whiteworth
 
 **SPRING BREAK**
 
-**Week 10: ?**  
-Tuesday (3/18): TBD
+**Week 10: Theory elsewhere**  
+Tuesday (3/18): [Myths and Mythconceptions What does it mean to be a programming language, anyhow?](https://dl.acm.org/doi/pdf/10.1145/3480947) Shaw [Programming as Theory Building\*](https://ingenieria-de-software-i.github.io/assets/bibliografia/programming-as-theory-building.pdf)
 
-Thursday (3/20): TBD
+Thursday (3/20): [On Use of Theory in Computing Education Research](https://dl.acm.org/doi/abs/10.1145/3230977.3230992) Nelson, Ko,
+[Building Theories in Software Engineering](https://link.springer.com/chapter/10.1007/978-1-84800-044-5_12) Sjøberg and friends
 
-**Week 11: ?**  
-Tuesday (3/25): TBD
+**Week 11: STS and friends**  
+Tuesday (3/25): [Visualization and cognition: Thinking with eyes and hands](https://lust-for-life.org/Lust-For-Life/_Textual/BrunoLatour_VisualizationAndCognition-ThinkingWithEyesAndHands_1986_42pp/BrunoLatour_VisualizationAndCognition-ThinkingWithEyesAndHands_1986_42pp.pdf) by Latour
 
-Thursday (3/27): TBD
+Thursday (3/27): <some of the critical data book>
 
 **Week 12: ?**  
 Tuesday (4/1): TBD
