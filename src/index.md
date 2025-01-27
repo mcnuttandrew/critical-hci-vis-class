@@ -19,7 +19,7 @@ Mechanically, the course is essentially a scavenger hunt with a small handful of
 
 **Instructor**: [Andrew McNutt](https://www.mcnutt.in/)  
 **Contact**: andrew.mcnutt@utah.edu  
-**Class**: 2:00 PM - 3:20 PM (Tu/Th) at BU C 302  
+**Class**: 2:00 PM - 3:20 PM (Tu/Th) at ~~BU C 302~~ Jones Conference room in WEB
 **Office Hours**: On demand
 **Course Forum**: [link](https://edstem.org/us/courses/70841/discussion)  
 **Github link**: [github.com/mcnuttandrew/critical-hci-vis-class](https://github.com/mcnuttandrew/critical-hci-vis-class)
@@ -108,7 +108,7 @@ Thursday (3/20): [On Use of Theory in Computing Education Research](https://dl.a
 **Week 11: STS and friends**  
 Tuesday (3/25): [Visualization and cognition: Thinking with eyes and hands](https://lust-for-life.org/Lust-For-Life/_Textual/BrunoLatour_VisualizationAndCognition-ThinkingWithEyesAndHands_1986_42pp/BrunoLatour_VisualizationAndCognition-ThinkingWithEyesAndHands_1986_42pp.pdf) by Latour
 
-Thursday (3/27): <some of the critical data book>
+Thursday (3/27): (...some of the critical data book)
 
 **Week 12: ?**  
 Tuesday (4/1): TBD
