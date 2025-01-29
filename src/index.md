@@ -74,9 +74,9 @@ Thursday (2/6):
 [Fourth Paradigm](https://www.microsoft.com/en-us/research/wp-content/uploads/2009/10/Fourth_Paradigm.pdf) chapter 1,
 [The Three Paradigms of HCI](https://people.cs.vt.edu/srh/Downloads/TheThreeParadigmsofHCI.pdf) Harrison and friends
 
-**Week 6: Meta theory Continues / critical vis**
+**Week 6: Meta theory**
 
-Tuesday (2/11): Structure of scientific revolutions (available at the library), chapter 5 paradigms, chapter 7 theories,
+Tuesday (2/11): Structure of scientific revolutions (available at the library), chapter 5 paradigms, chapter 7 theories, chapter 9 revolutions
 
 Thursday (2/13): [Traditional and Critical Theory](https://blogs.law.columbia.edu/critique1313/files/2019/09/Horkheimer-Traditional-and-Critical-Theory-2.pdf) Horkheimer
 
@@ -84,11 +84,11 @@ Thursday (2/13): [Traditional and Critical Theory](https://blogs.law.columbia.ed
 
 Tuesday (2/18):
 [Critical InfoVis: exploring the politics of visualization](https://dl.acm.org/doi/abs/10.1145/2468356.2468739) by Dork et al.
-[Ethical dimensions of visualization research](https://dl.acm.org/doi/abs/10.1145/3290605.3300418) Correll
+[Iceberg Sensemaking: A Process Model for Critical Data Analysis and Visualization](https://ieeexplore.ieee.org/abstract/document/10741969)
 
 Thursday (2/20):
+[Ethical dimensions of visualization research](https://dl.acm.org/doi/abs/10.1145/3290605.3300418) Correll
 [The work that visualisation conventions do](https://www.tandfonline.com/doi/abs/10.1080/1369118X.2016.1153126) Kennedy et al.
-[Iceberg Sensemaking: A Process Model for Critical Data Analysis and Visualization](https://ieeexplore.ieee.org/abstract/document/10741969)
 
 **Week 8: Feminism Return**
 
@@ -116,18 +116,20 @@ Thursday (3/20):
 (Ideally a a pre-print of a relevant alt.chi paper),
 Bonus: [Pronoun Logic](https://arxiv.org/abs/2409.18978) by Bohrer and Neth
 
-**Week 11: STS and friends**  
+**Week 11: Assorted topics**  
 Tuesday (3/25):
 [On Use of Theory in Computing Education Research](https://dl.acm.org/doi/abs/10.1145/3230977.3230992) Nelson, Ko,
 [Building Theories in Software Engineering](https://link.springer.com/chapter/10.1007/978-1-84800-044-5_12) Sjøberg and friends
 
 Thursday (3/27):
+[Cripping Data Visualizations: Crip Technoscience as a Critical Lens for Designing Digital Access](https://dl.acm.org/doi/pdf/10.1145/3597638.3608427) by Hsueh and co,
+[How accessible is my visualization? Evaluating visualization accessibility with Chartability](https://www.frank.computer/papers/2022-eurovis-chartability.pdf) by Elavsky and friends
+
+**Week 12: STS and friends**  
+Tuesday (4/1):
 [Visualization and cognition: Thinking with eyes and hands](https://lust-for-life.org/Lust-For-Life/_Textual/BrunoLatour_VisualizationAndCognition-ThinkingWithEyesAndHands_1986_42pp/BrunoLatour_VisualizationAndCognition-ThinkingWithEyesAndHands_1986_42pp.pdf) by Latour
 
-**Week 12: ?**  
-Tuesday (4/1): (...some of the critical data book)
-
-Thursday (4/3): TBD
+Thursday (4/3): (...some of the critical data book)
 
 **Week 13: ?**  
 Tuesday (4/8): TBD
