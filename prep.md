@@ -32,6 +32,8 @@ An Introduction to Critical Cartography - Jeremy W. Crampton, John Krygier
 
 [Polite web-based intelligent tutors: Can they improve learning in classrooms?](https://www.sciencedirect.com/science/article/pii/S0360131510002824) McLaren
 
+[Yes: Affirmative consent as a theoretical framework for understanding and imagining social platforms](https://dl.acm.org/doi/abs/10.1145/3411764.3445778) [Polite computing](https://www.tandfonline.com/doi/full/10.1080/01449290512331333700) Whiteworth
+
 # Unsorted
 
 New theoretical approaches for HCI
@@ -100,8 +102,6 @@ Critiquing Menstrual Pain Technologies through the Lens of Feminist Disability S
 
 A Plurality of More-than-Humanness: Feminist Speculations for Designing with the Vaginal Microbiome by Campo Woytuk et al.
 
-[Cripping Data Visualizations: Crip Technoscience as a Critical Lens for Designing Digital Access](https://dl.acm.org/doi/pdf/10.1145/3597638.3608427)
-
 [Chatbot apologies: Beyond bullshit](https://arxiv.org/pdf/2501.09910)
 
 "Invisible Women: Data Bias in a World Designed for Men" Chapter 1
@@ -114,3 +114,5 @@ Wisdom of Virtue Ethics https://arxiv.org/pdf/2501.10288v1
 [a thousand plateaus, introduction/rhizome](https://files.libcom.org/files/A%20Thousand%20Plateaus.pdf)
 
 [Development of the Critical Reflection and Agency in Computing Index](https://arxiv.org/abs/2501.13060) - Padiyath
+
+[Fuck Nuance](https://kieranhealy.org/files/papers/fuck-nuance.pdf)
