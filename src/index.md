@@ -70,13 +70,13 @@ Thursday (1/30): [The nature of theory in information systems](https://www.jstor
 Tuesday (2/4):
 [The meaning of theory](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1467-9558.2008.00324.x) Abend
 
-Thursday (2/6):
+Thursday (2/6): **ASYNC CLASS, go to the SCI distinguished lecture!**
 [Fourth Paradigm](https://www.microsoft.com/en-us/research/wp-content/uploads/2009/10/Fourth_Paradigm.pdf) "Jim Gray on eScience: A Transformed Scientific Method",
 [The Three Paradigms of HCI](https://people.cs.vt.edu/srh/Downloads/TheThreeParadigmsofHCI.pdf) Harrison and friends
 
 **Week 6: Meta theory**
 
-Tuesday (2/11): Structure of scientific revolutions (available at the library), chapter 5 paradigms, chapter 7 theories, chapter 9 revolutions
+Tuesday (2/11): **ASYNC CLASS, go to the RAI lecture** Structure of scientific revolutions (available at the library), chapter 5 paradigms, chapter 7 theories, chapter 9 revolutions
 
 Thursday (2/13): [Traditional and Critical Theory](https://blogs.law.columbia.edu/critique1313/files/2019/09/Horkheimer-Traditional-and-Critical-Theory-2.pdf) Horkheimer
 
