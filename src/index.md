@@ -113,8 +113,9 @@ Tuesday (3/18): [Myths and Mythconceptions What does it mean to be a programming
 
 Thursday (3/20):
 [A Case for Feminism in Programming Language Design](https://dl.acm.org/doi/abs/10.1145/3689492.3689809) Hermans, Schlesinger,
-(Ideally a a pre-print of a relevant alt.chi paper),
-Bonus: [Pronoun Logic](https://arxiv.org/abs/2409.18978) by Bohrer and Neth
+
+<!-- (Ideally a a pre-print of a relevant alt.chi paper),
+Bonus: [Pronoun Logic](https://arxiv.org/abs/2409.18978) by Bohrer and Neth -->
 
 **Week 11: Assorted topics**  
 Tuesday (3/25):
