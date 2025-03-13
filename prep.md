@@ -116,3 +116,5 @@ Wisdom of Virtue Ethics https://arxiv.org/pdf/2501.10288v1
 [Development of the Critical Reflection and Agency in Computing Index](https://arxiv.org/abs/2501.13060) - Padiyath
 
 [Fuck Nuance](https://kieranhealy.org/files/papers/fuck-nuance.pdf)
+
+[Building Theories in Software Engineering](https://link.springer.com/chapter/10.1007/978-1-84800-044-5_12) Sjøberg and friends

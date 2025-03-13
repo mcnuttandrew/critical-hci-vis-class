@@ -108,42 +108,45 @@ Thursday (3/6):
 
 **SPRING BREAK**
 
-**Week 10: PL**  
-Tuesday (3/18): [Myths and Mythconceptions What does it mean to be a programming language, anyhow?](https://dl.acm.org/doi/pdf/10.1145/3480947) Shaw [Programming as Theory Building\*](https://ingenieria-de-software-i.github.io/assets/bibliografia/programming-as-theory-building.pdf)
+**Week 10: Assorted topics**  
+Tuesday (3/18): Individual Conferences
 
 Thursday (3/20):
-[A Case for Feminism in Programming Language Design](https://dl.acm.org/doi/abs/10.1145/3689492.3689809) Hermans, Schlesinger,
-
-<!-- (Ideally a a pre-print of a relevant alt.chi paper),
-Bonus: [Pronoun Logic](https://arxiv.org/abs/2409.18978) by Bohrer and Neth -->
+[Cripping Data Visualizations: Crip Technoscience as a Critical Lens for Designing Digital Access](https://dl.acm.org/doi/pdf/10.1145/3597638.3608427) by Hsueh and co,
+[How accessible is my visualization? Evaluating visualization accessibility with Chartability](https://www.frank.computer/papers/2022-eurovis-chartability.pdf) by Elavsky and friends
 
 **Week 11: Assorted topics**  
 Tuesday (3/25):
-[On Use of Theory in Computing Education Research](https://dl.acm.org/doi/abs/10.1145/3230977.3230992) Nelson, Ko,
-[Building Theories in Software Engineering](https://link.springer.com/chapter/10.1007/978-1-84800-044-5_12) Sjøberg and friends
+[Braving Citational Justice](https://dl.acm.org/doi/abs/10.1145/3411763.3450389) by Kumar and Karusala, and
+[Post-growth Human–Computer Interaction](https://dl.acm.org/doi/pdf/10.1145/3624981) by Sharma, Kumar, Nardi
 
 Thursday (3/27):
-[Cripping Data Visualizations: Crip Technoscience as a Critical Lens for Designing Digital Access](https://dl.acm.org/doi/pdf/10.1145/3597638.3608427) by Hsueh and co,
-[How accessible is my visualization? Evaluating visualization accessibility with Chartability](https://www.frank.computer/papers/2022-eurovis-chartability.pdf) by Elavsky and friends
+[On Use of Theory in Computing Education Research](https://dl.acm.org/doi/abs/10.1145/3230977.3230992) Nelson, Ko,
+[In defence of sandcastles : research thinking through visualization in DH](https://research-repository.st-andrews.ac.uk/bitstream/handle/10023/20850/Article_Draft_final_prePrint.pdf?sequence=1) by Hinrichs and friends
 
 **Week 12: STS and friends**  
 Tuesday (4/1):
 [Visualization and cognition: Thinking with eyes and hands](https://lust-for-life.org/Lust-For-Life/_Textual/BrunoLatour_VisualizationAndCognition-ThinkingWithEyesAndHands_1986_42pp/BrunoLatour_VisualizationAndCognition-ThinkingWithEyesAndHands_1986_42pp.pdf) by Latour
 
-Thursday (4/3): (...some of the critical data book)
+Thursday (4/3): Chapters 1 and 2 of Critical Visualization by Hall/Dávila. Book available from the library online.
 
-**Week 13: ?**  
-Tuesday (4/8): TBD
+**Week 13: PL**  
+Tuesday (4/8):
+[Myths and Mythconceptions What does it mean to be a programming language, anyhow?](https://dl.acm.org/doi/pdf/10.1145/3480947) Shaw [Programming as Theory Building\*](https://ingenieria-de-software-i.github.io/assets/bibliografia/programming-as-theory-building.pdf)
 
-Thursday (4/10): TBD
+Thursday (4/10):
+[A Case for Feminism in Programming Language Design](https://dl.acm.org/doi/abs/10.1145/3689492.3689809) Hermans, Schlesinger,
 
-**Week 14: ?**  
+<!-- (Ideally a a pre-print of a relevant alt.chi paper),
+Bonus: [Pronoun Logic](https://arxiv.org/abs/2409.18978) by Bohrer and Neth -->
+
+**Week 14: Assorted Topics**  
 Tuesday (4/15): TBD
 
 Thursday (4/17): TBD
 
-**Week 15: ?**  
-Tuesday (4/22): TBD, All work due
+**Week 15: Test**
+Tuesday (4/22): Test
 
 # Mechanics
 
