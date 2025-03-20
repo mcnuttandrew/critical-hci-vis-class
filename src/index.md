@@ -132,18 +132,17 @@ Thursday (4/3): Chapters 1 and 2 of Critical Visualization by Hall/Dávila. Book
 
 **Week 13: PL**  
 Tuesday (4/8):
-[Myths and Mythconceptions What does it mean to be a programming language, anyhow?](https://dl.acm.org/doi/pdf/10.1145/3480947) Shaw [Programming as Theory Building\*](https://ingenieria-de-software-i.github.io/assets/bibliografia/programming-as-theory-building.pdf)
+[Programming as Theory Building\*](https://ingenieria-de-software-i.github.io/assets/bibliografia/programming-as-theory-building.pdf)
+Purbid talk
 
 Thursday (4/10):
-[A Case for Feminism in Programming Language Design](https://dl.acm.org/doi/abs/10.1145/3689492.3689809) Hermans, Schlesinger,
-
-<!-- (Ideally a a pre-print of a relevant alt.chi paper),
-Bonus: [Pronoun Logic](https://arxiv.org/abs/2409.18978) by Bohrer and Neth -->
+[A Case for Feminism in Programming Language Design](https://dl.acm.org/doi/abs/10.1145/3689492.3689809) Hermans, Schlesinger, Refeminizing Creative Computing through a Programming Language for Quilts (see ed for preprint)
+Bonus: [Pronoun Logic](https://arxiv.org/abs/2409.18978) by Bohrer and Neth
 
 **Week 14: Assorted Topics**  
 Tuesday (4/15): TBD
 
-Thursday (4/17): TBD
+Thursday (4/17): Purbid and Chang give talks
 
 **Week 15: Test**
 Tuesday (4/22): Test
