@@ -126,7 +126,8 @@ Thursday (3/27):
 
 **Week 12: STS and friends**  
 Tuesday (4/1):
-[Visualization and cognition: Thinking with eyes and hands](https://lust-for-life.org/Lust-For-Life/_Textual/BrunoLatour_VisualizationAndCognition-ThinkingWithEyesAndHands_1986_42pp/BrunoLatour_VisualizationAndCognition-ThinkingWithEyesAndHands_1986_42pp.pdf) by Latour
+[Visualisation and Cognition:
+Drawing Things Together](http://www.bruno-latour.fr/sites/default/files/21-DRAWING-THINGS-TOGETHER-GB.pdf) by Latour
 
 Thursday (4/3): Chapters 1 and 2 of Critical Visualization by Hall/Dávila. Book available from the library online.
 

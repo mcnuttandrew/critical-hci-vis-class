@@ -84,6 +84,8 @@ Data Hunches: Incorporating Personal Knowledge into Visualizations
 
 Viral Visualizations: How Coronavirus Skeptics Use Orthodox Data Practices to Promote Unorthodox Science Online
 
+[Myths and Mythconceptions What does it mean to be a programming language, anyhow?](https://dl.acm.org/doi/pdf/10.1145/3480947) Shaw 
+
 Visualization Rhetoric: Framing Effects in Narrative Visualization
 
 Gaps made visible — narrative patterns of emotional resonance in data representations of Rio de Janeiro's communities
