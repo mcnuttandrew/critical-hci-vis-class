@@ -129,7 +129,7 @@ Tuesday (4/1):
 [Visualisation and Cognition:
 Drawing Things Together](http://www.bruno-latour.fr/sites/default/files/21-DRAWING-THINGS-TOGETHER-GB.pdf) by Latour
 
-Thursday (4/3): Chapters 1 and 2 of Critical Visualization by Hall/Dávila. Book available from the library online.
+Thursday (4/3): Chapters 1 and 2 of [Critical Visualization by Hall/Dávila](https://ebookcentral.proquest.com/lib/utah/detail.action?docID=7129763)
 
 **Week 13: PL**  
 Tuesday (4/8):
