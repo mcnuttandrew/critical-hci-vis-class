@@ -141,7 +141,7 @@ Thursday (4/10):
 Bonus: [Pronoun Logic](https://arxiv.org/abs/2409.18978) by Bohrer and Neth
 
 **Week 14: Assorted Topics**  
-Tuesday (4/15): TBD
+Tuesday (4/15): [Disentangling the Power Dynamics in Participatory Data Physicalisation](https://arxiv.org/abs/2503.13018) by Cazacu and friends
 
 Thursday (4/17): Purbid and Chang give talks
 
@@ -150,7 +150,7 @@ Tuesday (4/22): Test
 
 # Mechanics
 
-This course is populated by a collection of optional assignments. Each assignment is worth some number of points. To get additional details about different activities you might do, see below. Note that this means there is not a notion of late work in this course. **All coursework must be turned in by the last day of class before finals.**
+This course is populated by a collection of optional assignments. Each assignment is worth some number of points. To get additional details about different activities you might do, see below. Note that this means there is not a notion of late work in this course. **All coursework must be turned in by the last day of class before finals (specifically before class starts on 4/22).**
 
 Depending on how everyone does there may be a curve. The course staff will not know what the curve is until the end of the semester.
 
