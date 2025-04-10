@@ -158,13 +158,13 @@ Depending on how everyone does there may be a curve. The course staff will not k
 
 There are many different paths through this course. You might write responses for all of the readings, do a project, and write an essay. Or you might write 5 essays! There are many possible approaches. Other works are allowed, but you must ask ahead. Unusual approaches and welcomed and (for now) encouraged. These might include a video essay, a podcast, a poster, or something else! An appropriate way to ask would be to post on the course forum (so that others can see as well), you'll get a response. **Note, that merely submitting a work is not enough to get all of the points associated with that format, it will also be graded.**
 
-### **Large** (8-10 points)
+### **Large** (10 points)
 
 **Make a project!** This is the most traditional form of work in this course. Here you will propose a project (at least a month in advance of your submission of that project) for which you will receive feedback and approval. The project should be a substantial piece of work that is related to the course topic.
 
 **Take a test!** If you have found yourself in dire need of points a final can be arranged in order to fill up the gap. This will be a timed exam held towards the end of the course that will cover material from the course, including free response and multiple choice.
 
-### **Medium** (4-6 points)
+### **Medium** (6 points)
 
 **Write an essay!** Write an essay about something related to the course. Relevant topics might include a reflection on a topic relevant to your domain knowledge or research, a synthesis related to course readings (although you should anticipate bringing in outside sources as well), a critique of a system or interface using one of our tools, or another appropriate topic (feel free to ask). This should be an academic essay and so refs should be used as appropriate. Think, 2-3 pages in IEEE VIS format (like a poster abstract length).
 
@@ -175,7 +175,7 @@ There are many different paths through this course. You might write responses fo
 **Write Reflectively!** Across the semester keep a reflective journal. This is an opportunity to think critically about what we've been working on in class, as well as your work more generally. "Keeping and Using Reflective Journals in the Qualitative Research Process" includes an introduction to it.
 Here is a potential [starting prompt](https://www.gla.ac.uk/0t4/crcees/files/summerschool/readings/summerschool09/SumSchool09_Reflexive_Study_Journal.pdf) and [tutorial video](https://www.youtube.com/watch?v=SntBj0FIApw). If you wish to pursue this activity, you should start at the beginning of the semester and continue through to the end; its not worth much if you do it for a week.
 
-### **Small** (0-1 points)
+### **Small** (1 points)
 
 **Draw a postcard!** Make a visual representation of a paper we've read. This can be a short lightweight visual abstract or some more in-depth. Use both sides. It should be enlightening to read.
 
