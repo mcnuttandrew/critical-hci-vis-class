@@ -4,12 +4,23 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/style.css");
   eleventyConfig.addPassthroughCopy({ "src/robots.txt": "/robots.txt" });
   eleventyConfig.addPlugin(inclusiveLangPlugin);
-  eleventyConfig.addCollection("assignments", (collection) =>
-    collection
-      .getAll()
-      .filter((x) => x.filePathStem.includes("assignment"))
-      .sort((a, b) => a.fileSlug.localeCompare(b.fileSlug))
-  );
+
+  // Collection for year pages
+  eleventyConfig.addCollection("year", (collection) => {
+    return collection.getFilteredByGlob("src/year/*.md");
+  });
+
+  // Get current year data for index page
+  eleventyConfig.addGlobalData("currentYear", () => {
+    const currentYear = new Date().getFullYear() + 1;
+    return currentYear;
+  });
+
+  // Create permalink structure for year pages
+  eleventyConfig.addFilter("yearPermalink", (page) => {
+    const year = page.fileSlug;
+    return `/years/${year}/`;
+  });
 
   return {
     dir: {
