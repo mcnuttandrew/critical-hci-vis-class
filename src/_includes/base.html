@@ -41,9 +41,13 @@
             Previous Years:
             <!-- show all the years in the years collection -->
             {% for year in collections.year %}
-            <a href="years/{{ year.fileSlug }}/">{{ year.data.year }}</a>
+            <a
+              href="https://www.mcnutt.in/critical-hci-vis-class/years/{{ year.fileSlug }}/"
+            >
+              {{ year.data.year }}
+            </a>
             {% if forloop.last == false %} | {% endif %} {% endfor %}
-            <a href="/">Current</a>
+            <a href="https://www.mcnutt.in/critical-hci-vis-class/">Current</a>
           </h3>
         </header>
         <main>{{ content }}</main>
