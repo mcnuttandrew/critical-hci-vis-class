@@ -23,9 +23,8 @@ Mechanically, the course is essentially a scavenger hunt with a small handful of
 
 **Instructor**: [Andrew McNutt](https://www.mcnutt.in/)  
 **Contact**: andrew.mcnutt@utah.edu  
-**Class**: TBD  
+**Class**: 02:00PM-03:20PM Tuesday/Thursday in BU C 302  
 **Office Hours**: On demand  
-**Course Forum**: TBD  
 **Github link**: [github.com/mcnuttandrew/critical-hci-vis-class](https://github.com/mcnuttandrew/critical-hci-vis-class)
 
 FAQ
@@ -40,7 +39,12 @@ FAQ
 
 For each class, there will be some assigned reading that you should do before class. Classes will involve discussions of the readings, so it is important that you do the readings.
 
-TBD
+**Week 1: Introduction**
+
+Tuesday (1/6): Syllabus day, introductory discussions and stakes setting. [Slide](https://drive.google.com/file/d/1kKGhFe_6t8ZwVm4JAavm-N3MYHgKRk18/view?usp=sharing)
+
+Thursday (1/8): [Raw Data is an Oxymoron](https://raley.english.ucsb.edu/wp-content/Engl800/RawData-excerpts.pdf), Gitelman: Introduction. When the Body Became Data:
+Historical Data Cultures and Anatomical Illustration, Correll and Garrison
 
 # Mechanics
 
@@ -64,11 +68,6 @@ There are many different paths through this course. You might write responses fo
 
 **Do a talk!** Here you'll do a presentation about something related to the course during class time. You must give at least a 1 week advance notice. Some possible presentations include: a discussion of a paper we did not read during class, an analysis of a system, an argument synthesizing multiple different perspectives we've considered. As part of your request for doing a talk, please file a pull request against this page using the github.
 
-**Make a zine!** Like the essay option, this should cover a topic or topics relevant to the course, but be presented in a zine-style format. The length, content, and complexity should be appropriate to being a medium work.
-
-**Write Reflectively!** Across the semester keep a reflective journal. This is an opportunity to think critically about what we've been working on in class, as well as your work more generally. "Keeping and Using Reflective Journals in the Qualitative Research Process" includes an introduction to it.
-Here is a potential [starting prompt](https://www.gla.ac.uk/0t4/crcees/files/summerschool/readings/summerschool09/SumSchool09_Reflexive_Study_Journal.pdf) and [tutorial video](https://www.youtube.com/watch?v=SntBj0FIApw). If you wish to pursue this activity, you should start at the beginning of the semester and continue through to the end; its not worth much if you do it for a week.
-
 ### **Small** (1 points)
 
 **Draw a postcard!** Make a visual representation of a paper we've read. This can be a short lightweight visual abstract or some more in-depth. Use both sides. It should be enlightening to read.
@@ -91,7 +90,7 @@ Similarly, it is possible that you could not show up all semester or engage with
 
 Resubmissions of previous works for new grades is allowed and encouraged. They will not increase your point total, but will allow you to increase the score on your original work. Note: all course work is graded at discretion---submitting something numerous times does not mean it will be graded numerous times.
 
-Given the variety of different types of works, there are a variety of different types of grading that are appropriate and necessary. Undercutting these are a general policy that you should not be disappointing. There are many ways to be disappointing. For instance, using an AI to generate an essay will be looked upon extremely negatively. Depending on the specifics of the infringement this may lead into our academic honesty policy.
+Given the variety of different types of works, there are a variety of different types of grading that are appropriate and necessary. Undercutting these are a general policy that you should not be disappointing. There are many ways to be disappointing. For instance, using an AI to generate an essay will be looked upon extremely negatively. Depending on the specifics of the infringement this may lead into our academic honesty policy. Submissions that appear to be AI produced can be rejected as ungradably not following instructions.
 
 Collaborations are allowed depending on the work. For instance, a group project is allowed and points are not split, but submitting an interesting paper as a group is not. The course staff must be informed of the collaboration before the work is turned in. If the collaboration is not disclosed, the work will be considered a violation of the academic honesty policy.
 

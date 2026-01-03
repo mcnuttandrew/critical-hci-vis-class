@@ -84,7 +84,7 @@ Data Hunches: Incorporating Personal Knowledge into Visualizations
 
 Viral Visualizations: How Coronavirus Skeptics Use Orthodox Data Practices to Promote Unorthodox Science Online
 
-[Myths and Mythconceptions What does it mean to be a programming language, anyhow?](https://dl.acm.org/doi/pdf/10.1145/3480947) Shaw 
+[Myths and Mythconceptions What does it mean to be a programming language, anyhow?](https://dl.acm.org/doi/pdf/10.1145/3480947) Shaw
 
 Visualization Rhetoric: Framing Effects in Narrative Visualization
 
@@ -120,3 +120,8 @@ Wisdom of Virtue Ethics https://arxiv.org/pdf/2501.10288v1
 [Fuck Nuance](https://kieranhealy.org/files/papers/fuck-nuance.pdf)
 
 [Building Theories in Software Engineering](https://link.springer.com/chapter/10.1007/978-1-84800-044-5_12) Sjøberg and friends
+
+- Postcolonial computing: a lens on design and development https://dl.acm.org/doi/10.1145/1753326.1753522
+- Feminist HCI: taking stock and outlining an agenda for design https://dl.acm.org/doi/10.1145/1753326.1753521
+
+We reject the use of generative artificial intelligence for reflexive qualitative research
