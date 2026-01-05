@@ -5,8 +5,6 @@ session: "Spring Semester 2026"
 permalink: "/"
 ---
 
-**2026 Edition Is A Work In Progress**
-
 This course aims to equip students with skills for critically analyzing data and data-related systems in the context of human-computer interaction (HCI) and visualization research, as well as in computer science more broadly. Via readings, projects, and discussions students will develop conceptual tools for evaluating, interpreting, and critiquing data, interfaces, and systems—critical thinking in data writ large.
 
 Relevant questions include: what is data? How do we evaluate the quality and relevance of systems for interacting with data? What biases might be inherent in these designs? To serve this goal we will explore perspectives from critical theory, science and technology studies, and HCI/VIS research (such as Data Feminism). Students will gain experience reading, understanding, and applying ideas from other fields to problems in familiar data domains.
@@ -30,9 +28,9 @@ Mechanically, the course is essentially a scavenger hunt with a small handful of
 FAQ
 
 - How do I submit stuff? TBD
-- How do I hear about course updates? Check the course forum
-- How do I get in touch with the course staff? Post on the course forum, _do not email_
-- How do I propose a work? Post on the course forum
+- How do I hear about course updates? You'll get an email
+- How do I get in touch with the course staff? Send an email
+- How do I propose a work? Send an email
 - How do I get grades? You'll be emailed once a week
 
 # Schedule:
@@ -60,7 +58,7 @@ There are many different paths through this course. You might write responses fo
 
 **Make a project!** This is the most traditional form of work in this course. Here you will propose a project (at least a month in advance of your submission of that project) for which you will receive feedback and approval. The project should be a substantial piece of work that is related to the course topic.
 
-**Take a test!** If you have found yourself in dire need of points a final can be arranged in order to fill up the gap. This will be a timed exam held towards the end of the course that will cover material from the course, including free response and multiple choice.
+**Take a test!** If you have found yourself in dire need of points a final can be arranged in order to fill up the gap. This will be a timed exam held towards the end of the course that will cover material from the course, including free response, multiple choice, among other formats.
 
 ### **Medium** (4 points)
 
@@ -76,7 +74,7 @@ There are many different paths through this course. You might write responses fo
 
 ## Required Activities (5 points)
 
-**Respond to the reading** This is something you should be doing for everything you read anyway, so you might as well get credit. No credit for obvious AI generated responses. This is the only assignment with a deadline, it must be turned in physically in class.
+**Respond to the reading** This is something you should be doing for everything you read anyway, so you might as well get credit. No credit for obvious AI generated responses. This is the only assignment with a deadline, it must be turned in digitally at least an hour before class. These can not be made up.
 
 **Show up to class**
 
@@ -114,7 +112,7 @@ We also expect students to treat everyone in the class (including the teaching s
 
 Student names & personal pronouns Class rosters are provided to the staff with the student's legal name as well as "Preferred first name" (if previously entered by you in the Student Profile section of your CIS account). Please advise the staff of any name or pronoun changes (and update CIS) so we can help create a learning environment in which you feel respected. If you need assistance getting your preferred name on your UID card, please visit the LGBT Resource Center Room 409 in the Olpin Union Building, or email bpeacock@sa.utah.edu to schedule a time to drop by. The LGBT Resource Center hours are M-F 8am-5pm, and 8am-6pm on Tuesdays.
 
-NOTE: This syllabus is meant to serve as an outline and guide for our course. Please note that the staff may modify it with reasonable notice to you. The staff may also modify the course schedule to accommodate the needs of our class. Any changes will be announced in class and posted on the course forum under Announcements.
+NOTE: This syllabus is meant to serve as an outline and guide for our course. Please note that the staff may modify it with reasonable notice to you. The staff may also modify the course schedule to accommodate the needs of our class. Any changes will be announced in class and noted via email.
 
 # Credits
 
