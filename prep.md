@@ -68,7 +68,7 @@ Tech-Art-Theory: Improvisational Methods for HCI Learning and Teaching
 
 Gender mag
 
-What is “Critical” about Critical Design?
+[What is “Critical” about Critical Design?](https://dl.acm.org/doi/10.1145/2470654.2466451)
 
 # On the bench
 
@@ -77,8 +77,6 @@ Villainy
 Troubling Collaboration: Matters of Care for Visualization Design Study
 
 An Empire Built On Sand: Reexamining What We Think We Know About Visualization
-
-Data is Personal: Attitudes and Perceptions of Data Visualization in Rural Pennsylvania
 
 Data Hunches: Incorporating Personal Knowledge into Visualizations
 
@@ -91,8 +89,6 @@ Visualization Rhetoric: Framing Effects in Narrative Visualization
 Gaps made visible — narrative patterns of emotional resonance in data representations of Rio de Janeiro's communities
 
 [Complexity as Design Material](https://arxiv.org/abs/2409.07465) Windhager et. al
-
-Making epistemological trouble: Third-paradigm HCI as successor science by Harrison et al.
 
 Entanglement HCI the next wave? By Frauenberger
 
@@ -125,3 +121,5 @@ Wisdom of Virtue Ethics https://arxiv.org/pdf/2501.10288v1
 - Feminist HCI: taking stock and outlining an agenda for design https://dl.acm.org/doi/10.1145/1753326.1753521
 
 We reject the use of generative artificial intelligence for reflexive qualitative research
+
+[Interaction substrates: combining power and simplicity in interactive systems](https://dl.acm.org/doi/pdf/10.1145/3706598.3714006)

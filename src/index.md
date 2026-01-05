@@ -41,8 +41,58 @@ For each class, there will be some assigned reading that you should do before cl
 
 Tuesday (1/6): Syllabus day, introductory discussions and stakes setting. [Slide](https://drive.google.com/file/d/1kKGhFe_6t8ZwVm4JAavm-N3MYHgKRk18/view?usp=sharing)
 
-Thursday (1/8): [Raw Data is an Oxymoron](https://raley.english.ucsb.edu/wp-content/Engl800/RawData-excerpts.pdf), Gitelman: Introduction. When the Body Became Data:
-Historical Data Cultures and Anatomical Illustration, Correll and Garrison
+Thursday (1/8): [Raw Data is an Oxymoron](https://raley.english.ucsb.edu/wp-content/Engl800/RawData-excerpts.pdf), Gitelman: Introduction. When the Body Became Data: Historical Data Cultures and Anatomical Illustration, Correll and Garrison
+
+**Week 2: Data/HCI Feminism amuse**
+
+Tuesday (1/13): [Data Feminism](https://data-feminism.mitpress.mit.edu/), Introduction and Power Chapter, [Feminist Data Visualization](https://kanarinka.com/wp-content/uploads/2015/07/IEEE_Feminist_Data_Visualization.pdf)
+
+Wednesday (1/15): [Towards a feminist HCI methodology: social science, feminism, and HCI](https://dl.acm.org/doi/abs/10.1145/1978942.1979041) Bardzell + Bardzell, [Visualizing Junk: Big Data Visualizations and the Need for Feminist Data Studies](https://journals.sagepub.com/doi/pdf/10.1177/0196859916666041)
+
+**Week 3: Epistemologies**
+
+Tuesday (1/21):
+[Entanglements for Visualization: Changing Research Outcomes through Feminist Theory](https://files.osf.io/v1/resources/rw35g/providers/osfstorage/66a773d9d05d8844eac9a1cd?format=pdf&action=download&direct&version=1) by Akbaba et al.
+[Here’s what you need to know about my data: Exploring Expert Knowledge’s Role in Data Analysis](https://sci.utah.edu/~vdl/papers/2025_vis_data-hunch_interview.pdf) by Lin et al.
+
+Thursday (1/23): [On Bullshit](https://uca.edu/honors/files/2018/10/frankfurt_on-bullshit.pdf) Frankfurt, [Towards a theory of bullshit visualization](https://arxiv.org/abs/2109.12975) Correll
+
+**Week 4: Meta theory in HCI/VIS**
+
+Tuesday (1/28): [Generative theories of interaction](https://dl.acm.org/doi/full/10.1145/3468505) Beaudouin-Lafon et. al, [Designing interaction, not interfaces](https://dl.acm.org/doi/abs/10.1145/989863.989865) Beaudouin-Lafon
+
+Thursday (1/30): [The nature of theory in information systems](https://www.jstor.org/stable/25148742) Gregor
+
+**Week 5: Meta theory in HCI/VIS?**
+
+Tuesday (2/3):
+[The meaning of theory](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1467-9558.2008.00324.x) Abend
+
+Thursday (2/5):
+[Fourth Paradigm](https://www.microsoft.com/en-us/research/wp-content/uploads/2009/10/Fourth_Paradigm.pdf) "Jim Gray on eScience: A Transformed Scientific Method",
+[Making epistemological trouble: Third-paradigm HCI as successor science](https://zhenbai.io/wp-content/uploads/2018/09/1.-Making-epistemological-trouble-Third-paradigm-HCI-as-successor-science.pdf) by Harrison et al.
+
+**Week 6: Meta theory**
+
+Tuesday (2/10): Structure of scientific revolutions (available at the library), chapter 5 paradigms, chapter 7 theories, chapter 9 revolutions
+
+Thursday (2/12): [Traditional and Critical Theory](https://blogs.law.columbia.edu/critique1313/files/2019/09/Horkheimer-Traditional-and-Critical-Theory-2.pdf) Horkheimer
+
+**Week 7: Critical Vis**
+
+Tuesday (2/17):
+[Critical InfoVis: exploring the politics of visualization](https://dl.acm.org/doi/abs/10.1145/2468356.2468739) by Dork et al.
+[Iceberg Sensemaking: A Process Model for Critical Data Analysis and Visualization](https://ieeexplore.ieee.org/abstract/document/10741969)
+
+Thursday (2/19):
+[Ethical dimensions of visualization research](https://dl.acm.org/doi/abs/10.1145/3290605.3300418) Correll
+[The work that visualisation conventions do](https://www.tandfonline.com/doi/abs/10.1080/1369118X.2016.1153126) Kennedy et al.
+
+**Week 7: Critical Vis**
+
+Tuesday (2/24):
+[Data Visualizations as Propaganda: Tracing Lineages, Provenance, and Political Framings in Online Anti-Immigrant Discourse](https://dl.acm.org/doi/10.1145/3757574)
+[Data is Personal: Attitudes and Perceptions of Data Visualization in Rural Pennsylvania](https://dl.acm.org/doi/abs/10.1145/3290605.3300474)
 
 # Mechanics
 
