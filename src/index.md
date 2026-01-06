@@ -27,7 +27,7 @@ Mechanically, the course is essentially a scavenger hunt with a small handful of
 
 FAQ
 
-- How do I submit stuff? TBD
+- How do I submit stuff? https://docs.google.com/forms/d/e/1FAIpQLSfxXJaOHXUUZyjyOEaaBKH2-PRM3UnbdnFhGjZfbrDLP7Jd-Q/viewform?usp=dialog
 - How do I hear about course updates? You'll get an email
 - How do I get in touch with the course staff? Send an email
 - How do I propose a work? Send an email
