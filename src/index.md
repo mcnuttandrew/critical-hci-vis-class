@@ -39,7 +39,7 @@ For each class, there will be some assigned reading that you should do before cl
 
 **Week 1: Introduction**
 
-Tuesday (1/6): Syllabus day, introductory discussions and stakes setting. [Slide](https://drive.google.com/file/d/1kKGhFe_6t8ZwVm4JAavm-N3MYHgKRk18/view?usp=sharing)
+Tuesday (1/6): Syllabus day, introductory discussions and stakes setting. [Slide](assets/cs6967-lecture-1-2026.pdf)
 
 Thursday (1/8): [Raw Data is an Oxymoron](https://raley.english.ucsb.edu/wp-content/Engl800/RawData-excerpts.pdf), Gitelman: Introduction. When the Body Became Data: Historical Data Cultures and Anatomical Illustration, Correll and Garrison
 

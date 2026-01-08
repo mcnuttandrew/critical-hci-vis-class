@@ -3,6 +3,7 @@ const inclusiveLangPlugin = require("@11ty/eleventy-plugin-inclusive-language");
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/style.css");
   eleventyConfig.addPassthroughCopy({ "src/robots.txt": "/robots.txt" });
+  eleventyConfig.addPassthroughCopy({ "src/assets": "/assets" });
   eleventyConfig.addPlugin(inclusiveLangPlugin);
 
   // Collection for year pages
