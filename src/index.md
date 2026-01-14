@@ -162,7 +162,7 @@ We also expect students to treat everyone in the class (including the teaching s
 
 Student names & personal pronouns Class rosters are provided to the staff with the student's legal name as well as "Preferred first name" (if previously entered by you in the Student Profile section of your CIS account). Please advise the staff of any name or pronoun changes (and update CIS) so we can help create a learning environment in which you feel respected. If you need assistance getting your preferred name on your UID card, please visit the LGBT Resource Center Room 409 in the Olpin Union Building, or email bpeacock@sa.utah.edu to schedule a time to drop by. The LGBT Resource Center hours are M-F 8am-5pm, and 8am-6pm on Tuesdays.
 
-NOTE: This syllabus is meant to serve as an outline and guide for our course. Please note that the staff may modify it with reasonable notice to you. The staff may also modify the course schedule to accommodate the needs of our class. Any changes will be announced in class and noted via email.
+NOTE: This syllabus is meant to serve as an outline and guide for our course. The staff may modify it with reasonable notice to you. The staff may also modify the course schedule to accommodate the needs of our class. Any changes will be announced in class and noted via email.
 
 # Credits
 
