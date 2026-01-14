@@ -45,23 +45,23 @@ Thursday (1/8): [Raw Data is an Oxymoron](https://raley.english.ucsb.edu/wp-cont
 
 **Week 2: Data/HCI Feminism amuse**
 
-Tuesday (1/13): [Data Feminism](https://data-feminism.mitpress.mit.edu/), Introduction and Power Chapter, [Feminist Data Visualization](https://kanarinka.com/wp-content/uploads/2015/07/IEEE_Feminist_Data_Visualization.pdf)
+Tuesday (1/13): [Feminist Data Visualization](https://kanarinka.com/wp-content/uploads/2015/07/IEEE_Feminist_Data_Visualization.pdf), [Data Feminism](https://data-feminism.mitpress.mit.edu/), Introduction and Power Chapter
 
-Wednesday (1/15): [Towards a feminist HCI methodology: social science, feminism, and HCI](https://dl.acm.org/doi/abs/10.1145/1978942.1979041) Bardzell + Bardzell, [Visualizing Junk: Big Data Visualizations and the Need for Feminist Data Studies](https://journals.sagepub.com/doi/pdf/10.1177/0196859916666041)
+Thursday (1/15): [Towards a feminist HCI methodology: social science, feminism, and HCI](https://dl.acm.org/doi/abs/10.1145/1978942.1979041) Bardzell + Bardzell, [Visualizing Junk: Big Data Visualizations and the Need for Feminist Data Studies](https://journals.sagepub.com/doi/pdf/10.1177/0196859916666041)
 
 **Week 3: Epistemologies**
 
-Tuesday (1/21):
+Tuesday (1/20):
 [Entanglements for Visualization: Changing Research Outcomes through Feminist Theory](https://files.osf.io/v1/resources/rw35g/providers/osfstorage/66a773d9d05d8844eac9a1cd?format=pdf&action=download&direct&version=1) by Akbaba et al.
 [Here’s what you need to know about my data: Exploring Expert Knowledge’s Role in Data Analysis](https://sci.utah.edu/~vdl/papers/2025_vis_data-hunch_interview.pdf) by Lin et al.
 
-Thursday (1/23): [On Bullshit](https://uca.edu/honors/files/2018/10/frankfurt_on-bullshit.pdf) Frankfurt, [Towards a theory of bullshit visualization](https://arxiv.org/abs/2109.12975) Correll
+Thursday (1/22): [On Bullshit](https://uca.edu/honors/files/2018/10/frankfurt_on-bullshit.pdf) Frankfurt, [Towards a theory of bullshit visualization](https://arxiv.org/abs/2109.12975) Correll
 
 **Week 4: Meta theory in HCI/VIS**
 
-Tuesday (1/28): [Generative theories of interaction](https://dl.acm.org/doi/full/10.1145/3468505) Beaudouin-Lafon et. al, [Designing interaction, not interfaces](https://dl.acm.org/doi/abs/10.1145/989863.989865) Beaudouin-Lafon
+Tuesday (1/27): [Generative theories of interaction](https://dl.acm.org/doi/full/10.1145/3468505) Beaudouin-Lafon et. al, [Designing interaction, not interfaces](https://dl.acm.org/doi/abs/10.1145/989863.989865) Beaudouin-Lafon
 
-Thursday (1/30): [The nature of theory in information systems](https://www.jstor.org/stable/25148742) Gregor
+Thursday (1/29): [The nature of theory in information systems](https://www.jstor.org/stable/25148742) Gregor
 
 **Week 5: Meta theory in HCI/VIS?**
 
