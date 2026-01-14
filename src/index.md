@@ -166,5 +166,5 @@ NOTE: This syllabus is meant to serve as an outline and guide for our course. Pl
 
 # Credits
 
-This course is indebted to wide variety of people for this work, their teaching, and their thoughtful commentary. [Miriah Meyer's course](https://miriah.github.io/teaching/cs7960-paradigms/) on a related topic of HCI paradigms was a large inspiration. [derya akababa](https://gotdairyya.github.io/) provided some very useful and inspiring commentary.
+This course is indebted to wide variety of people for this work, their teaching, and their thoughtful commentary. [Miriah Meyer's course](https://miriah.github.io/teaching/cs7960-paradigms/) on a related topic of HCI paradigms was a large inspiration. [Derya Akababa](https://gotdairyya.github.io/) provided some very useful and inspiring commentary.
 The course structure draws on a course I heard about taught at Reed College by Troy Cross, but it is not impossible in the intervening years the details have telephoned their way into being something different.
