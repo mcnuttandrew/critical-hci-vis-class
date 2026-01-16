@@ -21,13 +21,13 @@ Mechanically, the course is essentially a scavenger hunt with a small handful of
 
 **Instructor**: [Andrew McNutt](https://www.mcnutt.in/)  
 **Contact**: andrew.mcnutt@utah.edu  
-**Class**: 02:00PM-03:20PM Tuesday/Thursday in BU C 302  
+**Class**: 02:00PM-03:20PM Tuesday/Thursday in ~~BU C 302~~ Halvorsen conference room (4th floor WEB)  
 **Office Hours**: On demand  
 **Github link**: [github.com/mcnuttandrew/critical-hci-vis-class](https://github.com/mcnuttandrew/critical-hci-vis-class)
 
 FAQ
 
-- How do I submit stuff? [https://docs.google.com/forms/d/e/1FAIpQLSfxXJaOHXUUZyjyOEaaBKH2-PRM3UnbdnFhGjZfbrDLP7Jd-Q/viewform?usp=dialog](https://docs.google.com/forms/d/e/1FAIpQLSfxXJaOHXUUZyjyOEaaBKH2-PRM3UnbdnFhGjZfbrDLP7Jd-Q/viewform?usp=dialog)
+- How do I submit stuff? [this link](https://docs.google.com/forms/d/e/1FAIpQLSfxXJaOHXUUZyjyOEaaBKH2-PRM3UnbdnFhGjZfbrDLP7Jd-Q/viewform?usp=dialog)
 - How do I hear about course updates? You'll get an email
 - How do I get in touch with the course staff? Send an email
 - How do I propose a work? Send an email
@@ -39,7 +39,7 @@ For each class, there will be some assigned reading that you should do before cl
 
 **Week 1: Introduction**
 
-Tuesday (1/6): Syllabus day, introductory discussions and stakes setting. [Slide](assets/cs6967-lecture-1-2026.pdf)
+Tuesday (1/6): Syllabus day, introductory discussions and stakes setting. [Slides](assets/cs6967-lecture-1-2026.pdf)
 
 Thursday (1/8): [Raw Data is an Oxymoron](https://raley.english.ucsb.edu/wp-content/Engl800/RawData-excerpts.pdf), Gitelman: Introduction. When the Body Became Data: Historical Data Cultures and Anatomical Illustration, Correll and Garrison
 
@@ -88,11 +88,57 @@ Thursday (2/19):
 [Ethical dimensions of visualization research](https://dl.acm.org/doi/abs/10.1145/3290605.3300418) Correll
 [The work that visualisation conventions do](https://www.tandfonline.com/doi/abs/10.1080/1369118X.2016.1153126) Kennedy et al.
 
-**Week 7: Critical Vis**
+**Week 8: Critical Vis**
 
 Tuesday (2/24):
 [Data Visualizations as Propaganda: Tracing Lineages, Provenance, and Political Framings in Online Anti-Immigrant Discourse](https://dl.acm.org/doi/10.1145/3757574)
+[Of Course it's Political! A Critical Inquiry into Underemphasized Dimensions in Civic Text Visualization](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14518) Baumer et al.
+
+
+Thursday (2/26):
 [Data is Personal: Attitudes and Perceptions of Data Visualization in Rural Pennsylvania](https://dl.acm.org/doi/abs/10.1145/3290605.3300474)
+TBD
+
+**Week 9: TBD**
+Tuesday (3/3): 
+[Polite computing](https://www.tandfonline.com/doi/full/10.1080/01449290512331333700) Whitworth [Yes: Affirmative consent as a theoretical framework for understanding and imagining social platforms](https://dl.acm.org/doi/abs/10.1145/3411764.3445778) 
+
+Thursday (3/5):
+[Human-computer insurrection: Notes on an anarchist HCI](https://dl.acm.org/doi/abs/10.1145/3290605.3300569) Keyes et al, [A Mulching Proposal: Analysing and Improving an Algorithmic System for Turning the Elderly into High-Nutrient Slurry](https://dl.acm.org/doi/abs/10.1145/3290607.3310433)
+
+**Spring Break (3/7-15)**
+
+**Week 10: TBD**
+Tuesday (3/17): 
+[Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective](https://philpapers.org/archive/HARSKT.p) Haraway, [Writing the Implosion: Teaching the World One Thing at a Time](https://journal.culanth.org/index.php/ca/article/view/ca29.2.09) by Dumit
+
+Thursday (3/19): 
+An Introduction to Critical Cartography - Jeremy W. Crampton, John Krygier
+
+**Week 11: TBD**
+Tuesday (3/24): TBD
+
+Thursday (3/26): TBD
+
+**Week 12: TBD**
+Tuesday (3/31): TBD
+
+Thursday (4/2): TBD
+
+**Week 13: TBD**
+Tuesday (4/7): TBD
+
+Thursday (4/9): TBD
+
+**Week 14: TBD**
+Tuesday (4/14): TBD
+
+Thursday (4/16): TBD
+
+**Week 15: Test**
+Tuesday (4/22): Test
+
+
 
 # Mechanics
 
