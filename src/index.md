@@ -54,6 +54,7 @@ Thursday (1/15): [Towards a feminist HCI methodology: social science, feminism, 
 Tuesday (1/20):
 [Entanglements for Visualization: Changing Research Outcomes through Feminist Theory](https://files.osf.io/v1/resources/rw35g/providers/osfstorage/66a773d9d05d8844eac9a1cd?format=pdf&action=download&direct&version=1) by Akbaba et al.
 [Here’s what you need to know about my data: Exploring Expert Knowledge’s Role in Data Analysis](https://sci.utah.edu/~vdl/papers/2025_vis_data-hunch_interview.pdf) by Lin et al.
+Watch [Data Hunches](https://www.youtube.com/watch?v=IqLqajd3mY0)
 
 Thursday (1/22): [On Bullshit](https://uca.edu/honors/files/2018/10/frankfurt_on-bullshit.pdf) Frankfurt, [Towards a theory of bullshit visualization](https://arxiv.org/abs/2109.12975) Correll
 
