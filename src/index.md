@@ -56,7 +56,7 @@ Tuesday (1/20):
 [Here’s what you need to know about my data: Exploring Expert Knowledge’s Role in Data Analysis](https://sci.utah.edu/~vdl/papers/2025_vis_data-hunch_interview.pdf) by Lin et al.
 Watch [Data Hunches](https://www.youtube.com/watch?v=IqLqajd3mY0)
 
-Thursday (1/22): [On Bullshit](https://uca.edu/honors/files/2018/10/frankfurt_on-bullshit.pdf) Frankfurt, [Towards a theory of bullshit visualization](https://arxiv.org/abs/2109.12975) Correll
+Thursday (1/22): [On Bullshit](https://uca.edu/honors/files/2018/10/frankfurt_on-bullshit.pdf) Frankfurt, [Towards a theory of bullshit visualization](https://arxiv.org/abs/2109.12975) Correll. Bonus (not required): [Fuck Nuance](https://kieranhealy.org/files/papers/fuck-nuance.pdf)
 
 **Week 4: Meta theory in HCI/VIS**
 
@@ -95,14 +95,14 @@ Tuesday (2/24):
 [Data Visualizations as Propaganda: Tracing Lineages, Provenance, and Political Framings in Online Anti-Immigrant Discourse](https://dl.acm.org/doi/10.1145/3757574)
 [Of Course it's Political! A Critical Inquiry into Underemphasized Dimensions in Civic Text Visualization](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14518) Baumer et al.
 
-
 Thursday (2/26):
 [Data is Personal: Attitudes and Perceptions of Data Visualization in Rural Pennsylvania](https://dl.acm.org/doi/abs/10.1145/3290605.3300474)
 TBD
 
-**Week 9: TBD**
-Tuesday (3/3): 
-[Polite computing](https://www.tandfonline.com/doi/full/10.1080/01449290512331333700) Whitworth [Yes: Affirmative consent as a theoretical framework for understanding and imagining social platforms](https://dl.acm.org/doi/abs/10.1145/3411764.3445778) 
+**Week 9: Critical Vis**
+Tuesday (3/3):
+[What Data Do and Do Not Represent: Visualizing the Archive of Slavery](https://ieeexplore.ieee.org/document/10935303) by Li et al
+From Exploration to Critique: Catalyzing Critical Inquiry With Cultural Collection Visualizations](https://ieeexplore.ieee.org/document/10960716) by Windhager et al
 
 Thursday (3/5):
 [Human-computer insurrection: Notes on an anarchist HCI](https://dl.acm.org/doi/abs/10.1145/3290605.3300569) Keyes et al, [A Mulching Proposal: Analysing and Improving an Algorithmic System for Turning the Elderly into High-Nutrient Slurry](https://dl.acm.org/doi/abs/10.1145/3290607.3310433)
@@ -110,14 +110,15 @@ Thursday (3/5):
 **Spring Break (3/7-15)**
 
 **Week 10: TBD**
-Tuesday (3/17): 
+Tuesday (3/17):
 [Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective](https://philpapers.org/archive/HARSKT.p) Haraway, [Writing the Implosion: Teaching the World One Thing at a Time](https://journal.culanth.org/index.php/ca/article/view/ca29.2.09) by Dumit
 
-Thursday (3/19): 
-An Introduction to Critical Cartography - Jeremy W. Crampton, John Krygier
+Thursday (3/19):
+[Polite computing](https://www.tandfonline.com/doi/full/10.1080/01449290512331333700) Whitworth [Yes: Affirmative consent as a theoretical framework for understanding and imagining social platforms](https://dl.acm.org/doi/abs/10.1145/3411764.3445778)
 
 **Week 11: TBD**
-Tuesday (3/24): TBD
+Tuesday (3/24):
+An Introduction to Critical Cartography - Jeremy W. Crampton, John Krygier
 
 Thursday (3/26): TBD
 
@@ -138,8 +139,6 @@ Thursday (4/16): TBD
 
 **Week 15: Test**
 Tuesday (4/22): Test
-
-
 
 # Mechanics
 
