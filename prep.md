@@ -104,8 +104,7 @@ A Plurality of More-than-Humanness: Feminist Speculations for Designing with the
 
 "Invisible Women: Data Bias in a World Designed for Men" Chapter 1
 
-Design Patterns for the Common Good: Building Better Technologies Using the
-Wisdom of Virtue Ethics https://arxiv.org/pdf/2501.10288v1
+Design Patterns for the Common Good: Building Better Technologies Using the Wisdom of Virtue Ethics https://arxiv.org/pdf/2501.10288v1
 
 [Criteria for Rigor in Visualization Design Study](https://ieeexplore.ieee.org/abstract/document/8809711) Meyer, Dykes
 
@@ -113,13 +112,9 @@ Wisdom of Virtue Ethics https://arxiv.org/pdf/2501.10288v1
 
 [Development of the Critical Reflection and Agency in Computing Index](https://arxiv.org/abs/2501.13060) - Padiyath
 
-[Fuck Nuance](https://kieranhealy.org/files/papers/fuck-nuance.pdf)
-
 [Building Theories in Software Engineering](https://link.springer.com/chapter/10.1007/978-1-84800-044-5_12) Sjøberg and friends
 
 - Postcolonial computing: a lens on design and development https://dl.acm.org/doi/10.1145/1753326.1753522
 - Feminist HCI: taking stock and outlining an agenda for design https://dl.acm.org/doi/10.1145/1753326.1753521
 
 We reject the use of generative artificial intelligence for reflexive qualitative research
-
-[Interaction substrates: combining power and simplicity in interactive systems](https://dl.acm.org/doi/pdf/10.1145/3706598.3714006)

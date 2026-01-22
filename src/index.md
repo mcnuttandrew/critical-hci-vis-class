@@ -60,7 +60,9 @@ Thursday (1/22): [On Bullshit](https://uca.edu/honors/files/2018/10/frankfurt_on
 
 **Week 4: Meta theory in HCI/VIS**
 
-Tuesday (1/27): [Generative theories of interaction](https://dl.acm.org/doi/full/10.1145/3468505) Beaudouin-Lafon et. al, [Designing interaction, not interfaces](https://dl.acm.org/doi/abs/10.1145/989863.989865) Beaudouin-Lafon
+Tuesday (1/27):
+[Designing interaction, not interfaces](https://dl.acm.org/doi/abs/10.1145/989863.989865) Beaudouin-Lafon
+[Interaction substrates: combining power and simplicity in interactive systems](https://dl.acm.org/doi/pdf/10.1145/3706598.3714006)
 
 Thursday (1/29): [The nature of theory in information systems](https://www.jstor.org/stable/25148742) Gregor
 
