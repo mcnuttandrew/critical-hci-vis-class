@@ -111,20 +111,22 @@ Thursday (3/5):
 
 **Spring Break (3/7-15)**
 
-**Week 10: TBD**
+**Week 10: Assorted Topics**
 Tuesday (3/17):
 [Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective](https://philpapers.org/archive/HARSKT.p) Haraway, [Writing the Implosion: Teaching the World One Thing at a Time](https://journal.culanth.org/index.php/ca/article/view/ca29.2.09) by Dumit
 
 Thursday (3/19):
 [Polite computing](https://www.tandfonline.com/doi/full/10.1080/01449290512331333700) Whitworth [Yes: Affirmative consent as a theoretical framework for understanding and imagining social platforms](https://dl.acm.org/doi/abs/10.1145/3411764.3445778)
 
-**Week 11: TBD**
+**Week 11: Assorted Topics**
 Tuesday (3/24):
 An Introduction to Critical Cartography - Jeremy W. Crampton, John Krygier
 
-Thursday (3/26): TBD
+Thursday (3/26):
+Jake Wagoner presents
+[Data Feminism for AI](https://dl.acm.org/doi/abs/10.1145/3630106.3658543)
 
-**Week 12: TBD**
+**Week 12: Assorted Topics**
 Tuesday (3/31): TBD
 
 Thursday (4/2): TBD
