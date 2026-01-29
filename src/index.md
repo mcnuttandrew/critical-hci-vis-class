@@ -72,8 +72,8 @@ Tuesday (2/3):
 [The meaning of theory](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1467-9558.2008.00324.x) Abend
 
 Thursday (2/5):
-[Fourth Paradigm](https://www.microsoft.com/en-us/research/wp-content/uploads/2009/10/Fourth_Paradigm.pdf) "Jim Gray on eScience: A Transformed Scientific Method",
 [Making epistemological trouble: Third-paradigm HCI as successor science](https://zhenbai.io/wp-content/uploads/2018/09/1.-Making-epistemological-trouble-Third-paradigm-HCI-as-successor-science.pdf) by Harrison et al.
+Sydney's Game (presentation)
 
 **Week 6: Meta theory**
 
