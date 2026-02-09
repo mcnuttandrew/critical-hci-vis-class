@@ -99,12 +99,12 @@ Tuesday (2/24):
 
 Thursday (2/26):
 [Data is Personal: Attitudes and Perceptions of Data Visualization in Rural Pennsylvania](https://dl.acm.org/doi/abs/10.1145/3290605.3300474)
-TBD
+[What Data Visualization Reveals: Elizabeth Palmer Peabody and the Work of Knowledge Production](https://hdsr.mitpress.mit.edu/pub/oraonikr/release/3)
 
 **Week 9: Critical Vis**
 Tuesday (3/3):
 [What Data Do and Do Not Represent: Visualizing the Archive of Slavery](https://ieeexplore.ieee.org/document/10935303) by Li et al
-From Exploration to Critique: Catalyzing Critical Inquiry With Cultural Collection Visualizations](https://ieeexplore.ieee.org/document/10960716) by Windhager et al
+[From Exploration to Critique: Catalyzing Critical Inquiry With Cultural Collection Visualizations](https://ieeexplore.ieee.org/document/10960716) by Windhager et al
 
 Thursday (3/5):
 [Human-computer insurrection: Notes on an anarchist HCI](https://dl.acm.org/doi/abs/10.1145/3290605.3300569) Keyes et al, [A Mulching Proposal: Analysing and Improving an Algorithmic System for Turning the Elderly into High-Nutrient Slurry](https://dl.acm.org/doi/abs/10.1145/3290607.3310433)
@@ -113,7 +113,7 @@ Thursday (3/5):
 
 **Week 10: Assorted Topics**
 Tuesday (3/17):
-[Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective](https://philpapers.org/archive/HARSKT.p) Haraway, [Writing the Implosion: Teaching the World One Thing at a Time](https://journal.culanth.org/index.php/ca/article/view/ca29.2.09) by Dumit
+[Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective](https://philpapers.org/archive/HARSKT.p) Haraway
 
 Thursday (3/19):
 [Polite computing](https://www.tandfonline.com/doi/full/10.1080/01449290512331333700) Whitworth [Yes: Affirmative consent as a theoretical framework for understanding and imagining social platforms](https://dl.acm.org/doi/abs/10.1145/3411764.3445778)
@@ -123,8 +123,8 @@ Tuesday (3/24):
 An Introduction to Critical Cartography - Jeremy W. Crampton, John Krygier
 
 Thursday (3/26):
-Jake Wagoner presents
 [Data Feminism for AI](https://dl.acm.org/doi/abs/10.1145/3630106.3658543)
+Jake Wagoner presents.
 
 **Week 12: Assorted Topics**
 Tuesday (3/31): TBD

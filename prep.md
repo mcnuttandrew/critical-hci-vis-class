@@ -26,13 +26,7 @@
 
 [Disclosure as a critical-feminist design practice for Web-based data stories](https://firstmonday.org/ojs/index.php/fm/article/view/12712)
 
-An Introduction to Critical Cartography - Jeremy W. Crampton, John Krygier
-
-# Humanized
-
 [Polite web-based intelligent tutors: Can they improve learning in classrooms?](https://www.sciencedirect.com/science/article/pii/S0360131510002824) McLaren
-
-[Yes: Affirmative consent as a theoretical framework for understanding and imagining social platforms](https://dl.acm.org/doi/abs/10.1145/3411764.3445778) [Polite computing](https://www.tandfonline.com/doi/full/10.1080/01449290512331333700) Whiteworth
 
 # Unsorted
 
