@@ -85,21 +85,21 @@ Thursday (2/12): [Traditional and Critical Theory](https://blogs.law.columbia.ed
 
 Tuesday (2/17):
 [Critical InfoVis: exploring the politics of visualization](https://dl.acm.org/doi/abs/10.1145/2468356.2468739) by Dork et al.
-[Iceberg Sensemaking: A Process Model for Critical Data Analysis and Visualization](https://ieeexplore.ieee.org/abstract/document/10741969)
+[Iceberg Sensemaking: A Process Model for Critical Data Analysis and Visualization](https://ieeexplore.ieee.org/abstract/document/10741969) by Berret / Munzner
 
 Thursday (2/19):
-[Ethical dimensions of visualization research](https://dl.acm.org/doi/abs/10.1145/3290605.3300418) Correll
-[The work that visualisation conventions do](https://www.tandfonline.com/doi/abs/10.1080/1369118X.2016.1153126) Kennedy et al.
+[Ethical dimensions of visualization research](https://dl.acm.org/doi/abs/10.1145/3290605.3300418) by Correll
+[The work that visualisation conventions do](https://www.tandfonline.com/doi/abs/10.1080/1369118X.2016.1153126) by Kennedy et al.
 
 **Week 8: Critical Vis**
 
 Tuesday (2/24):
-[Data Visualizations as Propaganda: Tracing Lineages, Provenance, and Political Framings in Online Anti-Immigrant Discourse](https://dl.acm.org/doi/10.1145/3757574)
+[Data Visualizations as Propaganda: Tracing Lineages, Provenance, and Political Framings in Online Anti-Immigrant Discourse](https://dl.acm.org/doi/10.1145/3757574) by Dhawka et al.
 [Of Course it's Political! A Critical Inquiry into Underemphasized Dimensions in Civic Text Visualization](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14518) Baumer et al.
 
 Thursday (2/26):
-[Data is Personal: Attitudes and Perceptions of Data Visualization in Rural Pennsylvania](https://dl.acm.org/doi/abs/10.1145/3290605.3300474)
-[What Data Visualization Reveals: Elizabeth Palmer Peabody and the Work of Knowledge Production](https://hdsr.mitpress.mit.edu/pub/oraonikr/release/3)
+[Data is Personal: Attitudes and Perceptions of Data Visualization in Rural Pennsylvania](https://dl.acm.org/doi/abs/10.1145/3290605.3300474) by Peck et al.
+[What Data Visualization Reveals: Elizabeth Palmer Peabody and the Work of Knowledge Production](https://hdsr.mitpress.mit.edu/pub/oraonikr/release/3) by Klein
 
 **Week 9: Critical Vis**
 Tuesday (3/3):
