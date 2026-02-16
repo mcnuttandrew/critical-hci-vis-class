@@ -84,8 +84,8 @@ Thursday (2/12): [Traditional and Critical Theory](https://blogs.law.columbia.ed
 **Week 7: Critical Vis**
 
 Tuesday (2/17):
-[Critical InfoVis: exploring the politics of visualization](https://dl.acm.org/doi/abs/10.1145/2468356.2468739) by Dork et al.
-[Iceberg Sensemaking: A Process Model for Critical Data Analysis and Visualization](https://ieeexplore.ieee.org/abstract/document/10741969) by Berret / Munzner
+[Critical InfoVis: exploring the politics of visualization](https://mariandoerk.de/criticalinfovis/altchi2013.pdf) by Dork et al.
+[Iceberg Sensemaking: A Process Model for Critical Data Analysis and Visualization](https://arxiv.org/abs/2204.04758) by Berret / Munzner
 
 Thursday (2/19):
 [Ethical dimensions of visualization research](https://dl.acm.org/doi/abs/10.1145/3290605.3300418) by Correll
