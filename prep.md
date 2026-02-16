@@ -30,6 +30,10 @@
 
 # Unsorted
 
+Communicating Uncertainty in Digital Humanities Visualization Research
+
+Implicit Error, Uncertainty and Confidence in Visualization: an Archaeological Case Study
+
 New theoretical approaches for HCI
 
 [All data are local](https://direct.mit.edu/books/book-pdf/2257207/book_9780262352215.pdf) intro / chapter 1 local origins / chapter 6 models of local practice
