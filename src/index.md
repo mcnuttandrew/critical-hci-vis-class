@@ -95,7 +95,7 @@ Thursday (2/19):
 
 Tuesday (2/24):
 [Data Visualizations as Propaganda: Tracing Lineages, Provenance, and Political Framings in Online Anti-Immigrant Discourse](https://dl.acm.org/doi/10.1145/3757574) by Dhawka et al.
-[Of Course it's Political! A Critical Inquiry into Underemphasized Dimensions in Civic Text Visualization](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14518) Baumer et al.
+Abdullah presents
 
 Thursday (2/26):
 [Data is Personal: Attitudes and Perceptions of Data Visualization in Rural Pennsylvania](https://dl.acm.org/doi/abs/10.1145/3290605.3300474) by Peck et al.

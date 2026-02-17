@@ -70,6 +70,8 @@ Gender mag
 
 # On the bench
 
+[Of Course it's Political! A Critical Inquiry into Underemphasized Dimensions in Civic Text Visualization](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14518) Baumer et al.
+
 Villainy
 
 Troubling Collaboration: Matters of Care for Visualization Design Study
