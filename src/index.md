@@ -107,6 +107,7 @@ Tuesday (3/3):
 [From Exploration to Critique: Catalyzing Critical Inquiry With Cultural Collection Visualizations](https://ieeexplore.ieee.org/document/10960716) by Windhager et al
 
 Thursday (3/5):
+Class CANCELED (still do the readings though)
 [Human-computer insurrection: Notes on an anarchist HCI](https://dl.acm.org/doi/abs/10.1145/3290605.3300569) Keyes et al, [A Mulching Proposal: Analysing and Improving an Algorithmic System for Turning the Elderly into High-Nutrient Slurry](https://dl.acm.org/doi/abs/10.1145/3290607.3310433)
 
 **Spring Break (3/7-15)**
