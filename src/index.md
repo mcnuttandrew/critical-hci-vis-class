@@ -130,7 +130,7 @@ Jake Wagoner presents.
 **Week 12: Assorted Topics**
 Tuesday (3/31): [Transitioning to a Commercial Dashboarding System: Socio-technical Observations and Opportunities](https://data.jku-vds-lab.at/papers/2023_barriers.pdf) TBD
 
-Thursday (4/2): TBD
+Thursday (4/2): [Exploring Positionality in HCI: Perspectives, Trends, and Challenges](https://dl.acm.org/doi/10.1145/3706598.3713280)
 
 **Week 13: TBD**
 Tuesday (4/7): TBD
