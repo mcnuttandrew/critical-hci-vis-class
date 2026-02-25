@@ -15,7 +15,7 @@ Learning objectives:
 - **Communication**: at the end of the course students will be able to communicate and synthesize their ideas in a variety of formats
 - **Theory**: at the end of the course students will be able to describe the content of a variety of theoretical perspectives and apply them to data and data systems.
 
-Mechanically, the course is essentially a scavenger hunt with a small handful of requirements (showing up to class / being a good citizen/some other minor stuff) wherein you strive to get a certain number of points by the end (25). There are a variety of different types of works that you can do to get points, such as an essay or a project. It is up to you how you decide to approach this course. (Except for the required activities, that constitutes 5 points and is not available any other way) Thus there is a more mechanical learning objective of pushing students to deal effectively with time management.
+Mechanically, the course is essentially a scavenger hunt with a small handful of requirements (showing up to class / being a good citizen/some other minor stuff) wherein you strive to get a certain number of points by the end (25 for the grad version, 20 for the undergrad version). There are a variety of different types of works that you can do to get points, such as an essay or a project. It is up to you how you decide to approach this course. (Except for the required activities, that constitutes 5 points and is not available any other way) Thus there is a more mechanical learning objective of pushing students to deal effectively with time management.
 
 # Logistics
 
@@ -185,7 +185,7 @@ There are many different paths through this course. You might write responses fo
 
 It is possible that you could do nothing all semester and turn a whole bunch of work at once. This is allowed, but discouraged. Much in the same way that judges supposedly give harsher verdicts before lunch, requiring that the course staff grade a huge amount of submissions during finals week will likely lead to harsher grading. There is then, a game theory component to this system: when should you submit so that the grading system is currently least overwhelmed?
 
-Similarly, it is possible that you could not show up all semester or engage with the class discussions, that is, generally not be a good citizen of the course. There will be a negative penalty for this or similar actions: **up to -12 points**.
+Similarly, it is possible that you could not show up all semester or engage with the class discussions, that is, generally not be a good citizen of the course. There will be a negative penalty for this or similar actions: **up to -12 points**. The scope of this penalty will be dependent on the severity of the infraction.
 
 Resubmissions of previous works for new grades is allowed and encouraged. They will not increase your point total, but will allow you to increase the score on your original work. Note: all course work is graded at discretion---submitting something numerous times does not mean it will be graded numerous times.
 
