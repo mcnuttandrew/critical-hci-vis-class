@@ -103,8 +103,8 @@ Thursday (2/26):
 
 **Week 9: Critical Vis**
 Tuesday (3/3):
+Sydney Presents
 [What Data Do and Do Not Represent: Visualizing the Archive of Slavery](https://ieeexplore.ieee.org/document/10935303) by Li et al
-[From Exploration to Critique: Catalyzing Critical Inquiry With Cultural Collection Visualizations](https://ieeexplore.ieee.org/document/10960716) by Windhager et al
 
 Thursday (3/5):
 Class CANCELED (still do the readings though)

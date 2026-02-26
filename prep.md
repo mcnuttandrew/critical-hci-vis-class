@@ -118,3 +118,5 @@ Design Patterns for the Common Good: Building Better Technologies Using the Wisd
 - Feminist HCI: taking stock and outlining an agenda for design https://dl.acm.org/doi/10.1145/1753326.1753521
 
 We reject the use of generative artificial intelligence for reflexive qualitative research
+
+[From Exploration to Critique: Catalyzing Critical Inquiry With Cultural Collection Visualizations](https://ieeexplore.ieee.org/document/10960716) by Windhager et al
