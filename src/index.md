@@ -143,7 +143,7 @@ Tuesday (4/14): Abdullah presents
 Thursday (4/16): TBD
 
 **Week 15: Test**
-Tuesday (4/22): Test
+Tuesday (4/21): Test
 
 # Mechanics
 
