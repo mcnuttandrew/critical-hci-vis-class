@@ -125,12 +125,15 @@ An Introduction to Critical Cartography - Jeremy W. Crampton, John Krygier
 
 Thursday (3/26):
 [Data Feminism for AI](https://dl.acm.org/doi/abs/10.1145/3630106.3658543)
-Jake Wagoner presents.
+Jake presents.
 
 **Week 12: Assorted Topics**
-Tuesday (3/31): [Transitioning to a Commercial Dashboarding System: Socio-technical Observations and Opportunities](https://data.jku-vds-lab.at/papers/2023_barriers.pdf) Abdullah presents
+Tuesday (3/31):
+Abdullah presents
+Sydney Presents
 
 Thursday (4/2): [Exploring Positionality in HCI: Perspectives, Trends, and Challenges](https://dl.acm.org/doi/10.1145/3706598.3713280)
+[Transitioning to a Commercial Dashboarding System: Socio-technical Observations and Opportunities](https://data.jku-vds-lab.at/papers/2023_barriers.pdf)
 
 **Week 13: TBD**
 Tuesday (4/7): TBD
