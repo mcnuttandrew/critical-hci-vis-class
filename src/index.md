@@ -121,7 +121,7 @@ Thursday (3/19):
 
 **Week 11: Assorted Topics**
 Tuesday (3/24):
-An Introduction to Critical Cartography - Jeremy W. Crampton, John Krygier
+One on ones
 
 Thursday (3/26):
 [Data Feminism for AI](https://dl.acm.org/doi/abs/10.1145/3630106.3658543)
@@ -136,7 +136,7 @@ Thursday (4/2): [Exploring Positionality in HCI: Perspectives, Trends, and Chall
 Zach presents
 
 **Week 13: TBD**
-Tuesday (4/7): TBD
+Tuesday (4/7): An Introduction to Critical Cartography - Jeremy W. Crampton, John Krygier
 
 Thursday (4/9): TBD
 
