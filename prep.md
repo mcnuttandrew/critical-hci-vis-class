@@ -102,6 +102,8 @@ A Plurality of More-than-Humanness: Feminist Speculations for Designing with the
 
 [Chatbot apologies: Beyond bullshit](https://arxiv.org/pdf/2501.09910)
 
+[Transitioning to a Commercial Dashboarding System: Socio-technical Observations and Opportunities](https://data.jku-vds-lab.at/papers/2023_barriers.pdf)
+
 "Invisible Women: Data Bias in a World Designed for Men" Chapter 1
 
 Design Patterns for the Common Good: Building Better Technologies Using the Wisdom of Virtue Ethics https://arxiv.org/pdf/2501.10288v1

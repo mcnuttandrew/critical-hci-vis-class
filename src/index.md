@@ -133,7 +133,7 @@ Abdullah presents
 Sydney Presents
 
 Thursday (4/2): [Exploring Positionality in HCI: Perspectives, Trends, and Challenges](https://dl.acm.org/doi/10.1145/3706598.3713280)
-[Transitioning to a Commercial Dashboarding System: Socio-technical Observations and Opportunities](https://data.jku-vds-lab.at/papers/2023_barriers.pdf)
+Zach presents
 
 **Week 13: TBD**
 Tuesday (4/7): TBD
