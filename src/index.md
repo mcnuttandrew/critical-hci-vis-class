@@ -138,12 +138,12 @@ Zach presents
 **Week 13: TBD**
 Tuesday (4/7): An Introduction to Critical Cartography - Jeremy W. Crampton, John Krygier
 
-Thursday (4/9): TBD
+Thursday (4/9): Tia presents. Reading TBD
 
 **Week 14: TBD**
 Tuesday (4/14): Abdullah presents
 
-Thursday (4/16): TBD
+Thursday (4/16): Luis presents
 
 **Week 15: Test**
 Tuesday (4/21): Test
