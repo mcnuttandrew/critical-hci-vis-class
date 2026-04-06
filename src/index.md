@@ -119,40 +119,50 @@ Tuesday (3/17):
 Thursday (3/19):
 [Polite computing](https://www.tandfonline.com/doi/full/10.1080/01449290512331333700) Whitworth [Yes: Affirmative consent as a theoretical framework for understanding and imagining social platforms](https://dl.acm.org/doi/abs/10.1145/3411764.3445778)
 
-**Week 11: Assorted Topics**
+**Week 11: Students presentations and so on**
 Tuesday (3/24):
 One on ones
 
 Thursday (3/26):
-[Data Feminism for AI](https://dl.acm.org/doi/abs/10.1145/3630106.3658543)
+[Data Feminism for AI](https://dl.acm.org/doi/abs/10.1145/3630106.3658543)  
 Jake presents.
 
-**Week 12: Assorted Topics**
-Tuesday (3/31):
-Abdullah presents
+**Week 12: Students presentations and so on**  
+Tuesday (3/31):  
+Abdullah presents  
 Sydney Presents
 
-Thursday (4/2): [Exploring Positionality in HCI: Perspectives, Trends, and Challenges](https://dl.acm.org/doi/10.1145/3706598.3713280)
+Thursday (4/2):  
+[Exploring Positionality in HCI: Perspectives, Trends, and Challenges](https://dl.acm.org/doi/10.1145/3706598.3713280)  
 Zach presents
 
-**Week 13: TBD**
-Tuesday (4/7): An Introduction to Critical Cartography - Jeremy W. Crampton, John Krygier
+**Week 13: Students presentations and so on**  
+Tuesday (4/7):  
+An Introduction to Critical Cartography - Jeremy W. Crampton, John Krygier
 
-Thursday (4/9): Tia presents. Reading TBD
+Thursday (4/9):  
+[The Computer Science Undone: How The Social Construction of Disciplinary Boundaries and Disciplinary Hierarchies Shape a Field](https://storage.ghost.io/c/14/09/1409efce-4936-4186-a79c-2355425cb291/content/files/2026/03/phsc_30-2-Hermans_13-03.pdf) - Hermans  
+Tia presents
 
-**Week 14: TBD**
-Tuesday (4/14): Abdullah presents
+**Week 14: Students presentations and so on**  
+Tuesday (4/14):  
+[Sorting Things Out](https://hcommons.org/app/uploads/sites/1001532/2020/03/Bowker-1999-Sorting-Things-Out-Classification-and-Its-Consequences.pdf) by Bowker and Star, Introduction, Chapter 6
+Abdullah presents
 
-Thursday (4/16): Luis presents
+Thursday (4/16):  
+Luis presents
+Reading TBD
 
 **Week 15: Test**
 Tuesday (4/21): Test
 
 # Mechanics
 
-This course is populated by a collection of optional assignments. Each assignment is worth some number of points. To get additional details about different activities you might do, see below. Note that this means there is not a notion of late work in this course. **All coursework must be turned in by the last day of class before finals.**
+This course is populated by a collection of optional assignments. Each assignment is worth some number of points. To get additional details about different activities you might do, see below. Note that this means there is not a notion of late work in this course.
 
-Depending on how everyone does there may be a curve. The course staff will not know what the curve is until the end of the semester.
+**All coursework must be turned in by April 30 AoE**
+
+Depending on how everyone does there may be a curve. We will not know what the curve is until the end of the semester.
 
 ## Possible works
 
