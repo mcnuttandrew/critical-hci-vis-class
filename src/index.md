@@ -146,12 +146,12 @@ Tia presents
 
 **Week 14: Students presentations and so on**  
 Tuesday (4/14):  
-[Sorting Things Out](https://hcommons.org/app/uploads/sites/1001532/2020/03/Bowker-1999-Sorting-Things-Out-Classification-and-Its-Consequences.pdf) by Bowker and Star, Introduction, Chapter 6  
-Abdullah presents
+Class cancelled
 
 Thursday (4/16):  
+Abdullah presents
 Luis presents  
-Reading [Graphesis Chapter 3 - Interpreting Visualization :: Visualizing Interpretation](https://monoskop.org/images/2/2a/Drucker_Johanna_Graphesis_Visual_Forms_of_Knowledge_Production.pdf)
+[Sorting Things Out](https://hcommons.org/app/uploads/sites/1001532/2020/03/Bowker-1999-Sorting-Things-Out-Classification-and-Its-Consequences.pdf) by Bowker and Star, Introduction, Chapter 6
 
 **Week 15: Test**  
 Tuesday (4/21): Test
